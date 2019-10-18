@@ -1,7 +1,8 @@
 import sys, re
 import xml.etree.ElementTree as et
-
+from nltk.metrics.distance import jaccard_distance
 import nltk
+from nltk.metrics.scores import accuracy
 
 stopWords = ('a', 'o', 'teu', 'e', 'que', 'tu', 'entao', 'de', 'para', 'me')
 
@@ -35,6 +36,44 @@ def main():
     perguntas_test = preProc(perguntas_test)
     perguntas_test = removeStopWords(perguntas_test)
     perguntas_test = tokStem(perguntas_test)
+
+    results = open("../out/resultados.txt","w+", encoding='utf-8')
+    j = 0
+    threshold = 0.7
+
+    while j < len(perguntas_test):
+        best = 1000
+        best_id = None
+        pergunta_test = perguntas_test[j]
+        for id, listaPerguntas in perguntas.items():
+            for pergunta in listaPerguntas:
+                result = jaccard_distance(set(pergunta_test.split()), set(pergunta.split()))
+                if result < best:
+                    best_id = id
+                    best = result
+        if best < threshold:
+            results.write(best_id)
+        else:
+            results.write("0")
+        if j < len(perguntas_test):
+            results.write("\n")
+        j += 1
+    results.close()
+
+    results = fileToList("../out/resultados.txt")
+    solution = fileToList("../test/testSolutions.txt")
+
+    print("Accuracy: " + str(accuracy(results, solution)))
+
+
+def fileToList(fileName):
+    res = []
+    test_file = open(fileName, 'r', encoding='utf-8')
+    for line in test_file:
+        res.append(line.strip())
+    test_file.close()
+    return res
+
 
 
 def mapDict(dic, fun):
@@ -77,11 +116,13 @@ def preProc(Lista):
         result.append(str(l))
     return result
 
-
 def removeStopWords(sentence_list, stopword_list=stopWords):
     perguntas = []
+
     for sentence in sentence_list:
         sentence = sentence.split()
+        if len(sentence) == 0:
+            continue
         frase = []
         for word in sentence:
             if word.lower() not in stopword_list:
