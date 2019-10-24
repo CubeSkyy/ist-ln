@@ -7,6 +7,24 @@ from nltk.metrics.scores import accuracy
 stopWords = ('a', 'o', 'teu', 'e', 'que', 'tu', 'entao', 'de', 'para', 'me')
 
 
+def load_KB(input_name):
+    perguntas={}
+    root = et.parse(input_name).getroot()
+    for type_tag in root.findall('documento/faq_list/faq'):
+        res_id = type_tag.find('resposta').attrib['id']
+
+        for pergunta in type_tag.findall('perguntas/pergunta'):
+            perguntas[res_id] = perguntas.get(res_id, []) + [pergunta.text]
+    return perguntas
+
+def load_test_file(test_name):
+    perguntas_test =[]
+    with open(test_name, 'r', encoding='utf-8') as test_file:
+        for line in test_file:
+            perguntas_test.append(line)
+    return perguntas_test
+
+
 def main():
     if len(sys.argv) != 3:
         raise ValueError("Usage: <Knowledge Base File> <Test File>")
@@ -14,24 +32,14 @@ def main():
     input_name = sys.argv[1]
     test_name = sys.argv[2]
 
-    perguntas = {}
-    perguntas_test = []
+    perguntas = load_KB(input_name)
+    perguntas_test = load_test_file(test_name)
 
-    root = et.parse(input_name).getroot()
-    for type_tag in root.findall('documento/faq_list/faq'):
-        res_id = type_tag.find('resposta').attrib['id']
-
-        for pergunta in type_tag.findall('perguntas/pergunta'):
-            perguntas[res_id] = perguntas.get(res_id, []) + [pergunta.text]
 
     perguntas = mapDict(perguntas, preProc)
     perguntas = mapDict(perguntas, removeStopWords)
     perguntas = mapDict(perguntas, tokStem)
 
-    test_file = open(test_name, 'r', encoding='utf-8')
-    for line in test_file:
-        perguntas_test.append(line)
-    test_file.close()
 
     perguntas_test = preProc(perguntas_test)
     perguntas_test = removeStopWords(perguntas_test)
@@ -112,6 +120,8 @@ def preProc(Lista):
         l = re.sub(u"-", " ", l)
         # TUDO EM MINÚSCULAS
         l = l.lower()
+        # elimina -
+        # l = re.sub(u"-", " ", l)
         # ELIMINA PONTUAÇÃO
         # l = re.sub("[?|\.|!|:|,|;]", '', l)
         # fica so com as perguntas
@@ -151,4 +161,5 @@ def tokStem(perguntas):
     return perguntas_tok_stem
 
 
-main()
+if __name__ == "__main__":
+    main()
