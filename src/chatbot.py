@@ -37,33 +37,37 @@ def main():
     perguntas_test = removeStopWords(perguntas_test)
     perguntas_test = tokStem(perguntas_test)
 
-    results = open("../out/resultados.txt","w+", encoding='utf-8')
-    j = 0
-    threshold = 0.7
+    solution = fileToList("../test/testSolutions2.txt")
+    best_acc = 0
+    best_threshold = None
+    for threshold in range(5,100,5):
+        threshold = threshold/100
+        j = 0
+        results = open("../out/resultados" + str(round(threshold*100)) + ".txt", "w+", encoding='utf-8')
+        while j < len(perguntas_test):
+            best = 1000
+            best_id = None
+            pergunta_test = perguntas_test[j]
+            for id, listaPerguntas in perguntas.items():
+                for pergunta in listaPerguntas:
+                    result = jaccard_distance(set(pergunta_test.split()), set(pergunta.split()))
+                    if result < best:
+                        best_id = id
+                        best = result
+            if best < threshold:
+                results.write(best_id+"\n")
+            else:
+                results.write("0\n")
+            j += 1
+        results.close()
+        results = fileToList("../out/resultados" + str(round(threshold*100))     + ".txt")
 
-    while j < len(perguntas_test):
-        best = 1000
-        best_id = None
-        pergunta_test = perguntas_test[j]
-        for id, listaPerguntas in perguntas.items():
-            for pergunta in listaPerguntas:
-                result = jaccard_distance(set(pergunta_test.split()), set(pergunta.split()))
-                if result < best:
-                    best_id = id
-                    best = result
-        if best < threshold:
-            results.write(best_id)
-        else:
-            results.write("0")
-        if j < len(perguntas_test):
-            results.write("\n")
-        j += 1
-    results.close()
-
-    results = fileToList("../out/resultados.txt")
-    solution = fileToList("../test/testSolutions.txt")
-
-    print("Accuracy: " + str(accuracy(results, solution)))
+        acc = accuracy(results, solution)
+        if acc > best_acc:
+            best_acc = acc
+            best_threshold = threshold
+        print("Accuracy: " + str(acc) + " for " + str(threshold) + " threshold.")
+    print("Best Accuracy: " + str(best_acc) + " for " + str(best_threshold) + " threshold.")
 
 
 def fileToList(fileName):
@@ -73,7 +77,6 @@ def fileToList(fileName):
         res.append(line.strip())
     test_file.close()
     return res
-
 
 
 def mapDict(dic, fun):
@@ -115,6 +118,7 @@ def preProc(Lista):
         # l = re.sub("^\w+\t+[^\w]", '', l)
         result.append(str(l))
     return result
+
 
 def removeStopWords(sentence_list, stopword_list=stopWords):
     perguntas = []
