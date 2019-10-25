@@ -1,66 +1,62 @@
 import sys, re
 import xml.etree.ElementTree as et
 from nltk.metrics.distance import jaccard_distance
+from nltk.metrics.distance import masi_distance
+from nltk.metrics.distance import edit_distance
 import nltk
 from nltk.metrics.scores import accuracy
+import numpy as np
 
-stopWords = ('a', 'o', 'teu', 'e', 'que', 'tu', 'entao', 'de', 'para', 'me')
-
+import textdistance as td
 
 def main():
     if len(sys.argv) != 3:
         raise ValueError("Usage: <Knowledge Base File> <Test File>")
 
-    input_name = sys.argv[1]
-    test_name = sys.argv[2]
 
-    perguntas = {}
-    perguntas_test = []
+    perguntas = readPerguntas(sys.argv[1])
 
-    root = et.parse(input_name).getroot()
-    for type_tag in root.findall('documento/faq_list/faq'):
-        res_id = type_tag.find('resposta').attrib['id']
-
-        for pergunta in type_tag.findall('perguntas/pergunta'):
-            perguntas[res_id] = perguntas.get(res_id, []) + [pergunta.text]
-
+    #Pre-process questions
     perguntas = mapDict(perguntas, preProc)
     perguntas = mapDict(perguntas, removeStopWords)
     perguntas = mapDict(perguntas, tokStem)
 
-    test_file = open(test_name, 'r', encoding='utf-8')
-    for line in test_file:
-        perguntas_test.append(line)
-    test_file.close()
+    perguntas_test = readPerguntasTest(sys.argv[2])
 
+    #Pre-process test questions
     perguntas_test = preProc(perguntas_test)
     perguntas_test = removeStopWords(perguntas_test)
     perguntas_test = tokStem(perguntas_test)
 
+    #Distances: jaccard, masi, med, dice
+    distance = "jaccard"
+
+    #Read true labels
     solution = fileToList("../test/testSolutions2.txt")
+
     best_acc = 0
     best_threshold = None
-    for threshold in range(5,100,5):
-        threshold = threshold/100
+    for threshold in setThresholdRange(distance):
         j = 0
-        results = open("../out/resultados" + str(round(threshold*100)) + ".txt", "w+", encoding='utf-8')
+        results = open("../out/resultados" + str(threshold) + ".txt", "w+", encoding='utf-8')
         while j < len(perguntas_test):
-            best = 1000
+            best = np.Inf
             best_id = None
             pergunta_test = perguntas_test[j]
             for id, listaPerguntas in perguntas.items():
                 for pergunta in listaPerguntas:
-                    result = jaccard_distance(set(pergunta_test.split()), set(pergunta.split()))
+                    result = getDistance(distance, pergunta_test, pergunta)
                     if result < best:
                         best_id = id
                         best = result
+                        best_pergunta = pergunta #For debug
             if best < threshold:
                 results.write(best_id+"\n")
             else:
                 results.write("0\n")
             j += 1
         results.close()
-        results = fileToList("../out/resultados" + str(round(threshold*100))     + ".txt")
+        results = fileToList("../out/resultados" + str(threshold) + ".txt")
 
         acc = accuracy(results, solution)
         if acc > best_acc:
@@ -69,6 +65,49 @@ def main():
         print("Accuracy: " + str(acc) + " for " + str(threshold) + " threshold.")
     print("Best Accuracy: " + str(best_acc) + " for " + str(best_threshold) + " threshold.")
 
+def readPerguntasTest(filename):
+    perguntas_test = []
+
+    test_file = open(filename, 'r', encoding='utf-8')
+    for line in test_file:
+        perguntas_test.append(line)
+    test_file.close()
+    return perguntas_test
+
+
+def readPerguntas(filename):
+    perguntas = {}
+    root = et.parse(filename).getroot()
+    for type_tag in root.findall('documento/faq_list/faq'):
+        res_id = type_tag.find('resposta').attrib['id']
+
+        for pergunta in type_tag.findall('perguntas/pergunta'):
+            perguntas[res_id] = perguntas.get(res_id, []) + [pergunta.text]
+    return perguntas
+
+def getDistance(distance, str1, str2):
+    if distance == "jaccard":
+        return jaccard_distance(set(str1.split()), set(str2.split()))
+    if distance == "masi":
+        return masi_distance(set(str1.split()), set(str2.split()))
+    if distance == "med":
+        return edit_distance(str1, str2)
+    if distance == "dice":
+        return 1 - td.sorensen_dice(set(str1.split()), set(str2.split()))
+    else:
+        raise ValueError("distance not defined")
+
+def setThresholdRange(distance):
+    if distance == "jaccard":
+        return np.arange(0.25, 0.8, 0.05)
+    if distance == "masi":
+        return np.arange(0.7, 1, 0.05)
+    if distance == "med":
+        return np.arange(8, 9, 1)
+    if distance == "dice":
+        return np.arange(0.25, 0.8, 0.05)
+    else:
+        raise ValueError("distance not defined")
 
 def fileToList(fileName):
     res = []
@@ -81,6 +120,21 @@ def fileToList(fileName):
 
 def mapDict(dic, fun):
     return dict(map(lambda kv: (kv[0], fun(kv[1])), dic.items()))
+
+
+def tokStem(perguntas):
+    perguntas_tok_stem = []
+    stemmer = nltk.stem.RSLPStemmer()
+    for l in perguntas:
+        l = nltk.word_tokenize(l)
+        l1 = []
+        tagged = nltk.pos_tag(l)
+        for word in l:
+            word = stemmer.stem(word)
+            l1.append(word)
+        l = ' '.join(l1)
+        perguntas_tok_stem.append(l)
+    return perguntas_tok_stem
 
 
 def preProc(Lista):
@@ -113,12 +167,16 @@ def preProc(Lista):
         # TUDO EM MINÚSCULAS
         l = l.lower()
         # ELIMINA PONTUAÇÃO
-        # l = re.sub("[?|\.|!|:|,|;]", '', l)
+        l = re.sub("[?|\.|!|:|,|;]", '', l)
         # fica so com as perguntas
         # l = re.sub("^\w+\t+[^\w]", '', l)
         result.append(str(l))
     return result
 
+
+#stopWords = ('a', 'o', 'teu', 'e', 'que', 'tu', 'entao', 'de', 'para', 'me')
+stopWords = ('a', 'o', 'teu', 'e', 'tu', 'entao', 'para', 'me', 'em', 'que', 'na', 'no', 'nas','ser', 'noutros','sera','uma', 'nestes','neste')
+#stopWords = preProc(nltk.corpus.stopwords.words('portuguese'))
 
 def removeStopWords(sentence_list, stopword_list=stopWords):
     perguntas = []
@@ -135,20 +193,6 @@ def removeStopWords(sentence_list, stopword_list=stopWords):
         perguntas.append(fraseAux)
     return perguntas
 
-
-def tokStem(perguntas):
-    perguntas_tok_stem = []
-    stemmer = nltk.stem.RSLPStemmer()
-    for l in perguntas:
-        l = nltk.word_tokenize(l)
-        l1 = []
-        tagged = nltk.pos_tag(l)
-        for word in l:
-            word = stemmer.stem(word)
-            l1.append(word)
-        l = ' '.join(l1)
-        perguntas_tok_stem.append(l)
-    return perguntas_tok_stem
 
 
 main()
