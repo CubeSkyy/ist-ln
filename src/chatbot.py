@@ -27,7 +27,7 @@ def main():
     perguntas_test = tokStem(perguntas_test)
 
     #Distances: jaccard, masi, med, dice
-    distance = "jaccard"
+    distance = "dice"
 
     #Read true labels
     solution = fileToList("../test/testSolutions2.txt")
