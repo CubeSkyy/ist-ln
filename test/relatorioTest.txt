@@ -1,0 +1,18 @@
+Jaccard + preProc: 0.6806526806526807 for 0.6 threshold.
+
+Jaccard + preProc + stopwords nossas: 0.7272727272727273 for 0.7 threshold.
+
+Jaccard + preProc + stopwords nltk: 0.7505827505827506 for 0.75 threshold.
+
+###Jaccard + preProc + stopwords nltk + stemming: 0.7634032634032634 for 0.65 threshold.
+
+Jaccard + preProc + stopwords nossas + stemming: 0.7424242424242424 for 0.65 threshold.
+
+###Dice+ preProc + stopwords nltk + stemming: 0.7447552447552448 for 0.5 threshold.
+
+Dice+ preProc + stopwords nossas+ stemming: 0.7447552447552448 for 0.5 threshold.
+
+Masi+ preProc + stopwords nltk + stemming: 0.7249417249417249 for 0.9 threshold.
+
+Masi+ preProc + stopwords nossas + stemming: 0.7086247086247086 for 0.9 threshold.
+

@@ -1,613 +1,858 @@
-É possível emitir Cartão Eletrónico da Empresa ou de Pessoa Coletiva às entidades titulares de Cartão Definitivo de Identificação de Pessoa Coletiva ou entidade equiparada, emitido antes do dia 31/12/2008 ou inscritas anteriormente a essa data?
+Posso mandar fazer o Cartão Eletrónico da Empresa ou de Pessoa Coletiva às entidades titulares de Cartão Definitivo de Identificação de Pessoa Coletiva ou entidade equiparada, emitido antes do dia 31/12/2008 ou inscritas antes dessa data?
 Como pedir o Cartão Provisório de Identificação de Pessoa Coletiva?
 O Cartão da Empresa/Cartão de Pessoa Coletiva é emitido quando?
-Qual o preço do Cartão da Empresa e do Cartão de Pessoa Coletiva?
-Onde posso pedir o Cartão da Empresa e o Cartão de Pessoa Colectiva?
-Onde é entregue o Cartão da Empresa e o Cartão de Pessoa Coletiva? 
-O que define o Cartão da Empresa e o Cartão de Pessoa Coletiva?
-Quando expira o Cartão da Empresa e do Cartão de Pessoa Coletiva?
-Como requerer o Cartão Eletrónico da Empresa ou de Pessoa Coletiva?
-A validade do Cartão de Identificação de Pessoa Coletiva ou entidade equiparada, emitido pelo RNPC e de que sou titular, mantêm-se?
-O Cartão Eletrónico da Empresa ou de Pessoa Coletiva pode ser anulado?
-É possível cancelar o Cartão da Empresa e o Cartão de Pessoa Coletiva?
+Qual o custo do Cartão da Empresa e do Cartão de Pessoa Coletiva?
+O Cartão da Empresa e o Cartão de Pessoa Colectiva são pedidos onde?
+Onde recebo o Cartão da Empresa e o Cartão de Pessoa Coletiva?
+A que diz respeito o Cartão da Empresa e o Cartão de Pessoa Coletiva?
+Qual a duração do período de validade do Cartão da Empresa e do Cartão de Pessoa Coletiva?
+O Cartão Eletrónico da Empresa ou de Pessoa Coletiva é solicitado de que forma?
+O Cartão de Identificação de Pessoa Coletiva ou entidade equiparada, emitido pelo RNPC e de que sou titular, permanece válido?
+É possível cancelar o Cartão Eletrónico da Empresa ou de Pessoa Coletiva?
+O Cartão da Empresa e o Cartão de Pessoa Coletiva podem ser cancelados?
 O que define o Cartão Eletrónico da Empresa e de Pessoa Coletiva?
-O Cartão da Empresa e o Cartão de Pessoa Coletiva são distinguidos como?
-Que tipo de sociedades posso constituir através do serviço de criação de Empresa Online?
+Qual a diferença entre o Cartão da Empresa e o Cartão de Pessoa Coletiva?
+Quais são os tipos de sociedades podem ser constituídas através do serviço de criação de Empresa Online?
 Existem sociedades que não podem ser constituídas através do serviço de criação de Empresa Online?
-A partir de onde se pode aceder ao serviço de criação de Empresa Online?
+A partir de que sítio pode ser acedido o serviço de criação de Empresa Online?
 Quem é capaz de constituir uma empresa através do serviço de criação de Empresa Online?
-Como é escolhida a firma?
-Para a constituição de uma empresa através do serviço de criação de Empresa Online é necessária a presença de todos os sócios?
-É possível reservar previamente, de entre as firmas constantes da lista de nomes fantasia, o nome que pretendo para a minha empresa?
-Quanto custa de constituição de uma Empresa Online ou uma Empresa Online com Marca associada?
-Qual é o prazo para pagar a criação de uma Empresa Online?
+Como escolho a firma?
+É necessária a presença de todos os sócios para a constituição de uma empresa através do serviço de criação de Empresa Online?
+Posso reservar previamente, de entre as firmas constantes da lista de nomes fantasia, o nome que pretendo para a minha empresa?
+Qual o custo de constituir uma Empresa Online ou uma Empresa Online com Marca associada?
+Quais são os prazos de pagamento relativos ao serviço de criação de Empresa Online?
 Caso existam inconformidades no processo, o que sucede?
-Quando deverei efectuar o depósito do capital social da Empresa Online?
- Quando é possível o levantamento do capital social da Empresa Online? 
- A escolha de uma firma pré-aprovada pode limitar de alguma forma o objecto social que pretendo para a minha empresa?
- Possuo um Certificado de Admissibilidade de firma válido. É possível utilizá-lo a fim de constituir a minha empresa através do serviço de criação de Empresa Online?
- Aquando a constituição, deve ser feita a inscrição da sociedade nas finanças, na segurança social e noutros serviços públicos? 
- Será possível utilizar o processo de constituição da Empresa Online quando os sócios são pessoas colectivas? E se forem pessoas colectivas estrangeiras, existe algum formalismo prévio?
- Será possível, a cidadãos estrangeiros, a constituição de uma Empresa Online? Nestes casos, existe algum formalismo prévio que deva ser respeitado?
- Quando se dá a constituição da Empresa Online é possível que seja indicado um Técnico Oficial de Contas (TOC)?
- As publicações serão feitas em qual website?
- Em que data é que é dado o registo pela Conservatória?
+O depósito do capital social da Empresa Online deve ser feito quando?
+ Quando fica o capital social da Empresa Online disponível para levantamento?
+ É posssível que a escolha duma firma pré-aprovada limite o objecto social pretendido para a minha empresa?
+ Tenho um Certificado de Admissibilidade de firma válido. Pode este ser utilizado para constituir a minha empresa através do serviço de criação de Empresa Online?
+A inscrição da sociedade nas finanças, na segurança social e outros serviços públicos são efectuados no momento da constituição?
+ O processo de constituição da Empresa Online está disponível quando os sócios são pessoas colectivas? Há algumas regras adicionais caso estes sejam pessoas colectivas? 
+ Cidãdãos estrangeiros podem constituir uma Empresa Online? Se assim for, deve ser respeitado algum formalismo?
+ É possível indicar um Técnico Oficial de Contas (TOC) no momento da constituição da Empresa Online?
+ Qual é o website onde irão ser feitas as publicações?
+ O registo será efetuado pela Conservatória até quando?
  Como é que terei acesso ao Cartão da Empresa?
  O que é que tenho a ganhar ao aderir a um centro de arbitragem?
  Existe alguma exceção no que toca aos CAE's selecionados?
  Que informações existem acerca do Certificado Digital?
 Sou advogado e já tenho um certificado digital que integra a minha cédula profissional, posso utilizar este certificado para me autenticar e utilizar o serviço de criação de empresa?
-Que tipo de certificado é que pode ser utilizado no processo de criação de empresa?
-Qual é a definição de um certificado digital qualificado?
-Em que locais posso adquirir um certificado digital qualificado?
+Que certificados podem ser usados no processo de criação de empresa?
+O que caracteriza um certificado digital qualificado?
+Como posso adquirir um certificado digital qualificado?
 O meu pacto social digitalizado não se encontra muito legível. Que devo fazer?
-O que posso fazer no caso de a assinatura não se encontrar muito legível?
-O Cartão de Cidadão pode ser utilizado no processo de criação da empresa online?
- Como devo proceder para enviar o Pacto Social e o anexo de reconhecimento para o Portal da Empresa?
+A assinatura não se encontra legível. Que posso fazer?
+Ao criar a empresa online, pode ser utilizado o cartão de cidadão?
+ De que formas posso enviar o Pacto Social e o anexo de reconhecimento para o Portal da Empresa?
 Um cidadão estrangeiro pode constituir uma empresa através do serviço de criação de Empresa Online?
-O que define uma certidão permanente?
+Qual a definição de certidão permanente?
 Como é possível aceder a uma certidão permanente?
-Onde posso pedir uma certidão permanente?
+Onde me posso dirigir para pedir uma certidão permanente?
 Quem pode pedir uma certidão permanente online?
-Quais as vantagens de pedir uma certidão permanente?
-Qual a informação que consta de uma certidão permanente?
-Devo imprimir a certidão permanente?
-A partir de e até quando posso renovar a certidão permanente?
-E se me esquecer da data do fim de validade da certidão?
+Benefícios de pedir uma certidão permanente?
+Que informação posso encontrar numa certidão permanente?
+Preciso de imprimir a certidão permanente?
+Qual a validade da certidão permanente?
+E se não me lembrar da data do fim de validade da certidão?
 Quando renovar a minha certidão recebo outro código de acesso?
-Qual a definição de extratação de uma entidade?
-Qual a duração de uma extratação de uma entidade?
-Qual o preço de uma certidão permanente?
-O que é o registo comercial bilingue?
-Quais os benefícios do registo comercial bilingue? 
-Na versão inglesa, qual o valor legal da certidão permanente?
+Em que consiste uma extratação de uma entidade?
+Quanto tempo poderá levar a extractar uma entidade?
+Métodos de pagamento de certidão permanente?
+Em que consiste o registo comercial bilingue?
+Razões para fazer o registo comercial bilingue?
+Qual o valor jurídico da certidão permanente de registo na versão inglesa?
 Onde encontrar o registo comercial na versão inglesa?
-Qual o valor e de que maneira é possível pagar uma certidão permanente na versão inglesa?
-A certidão na versão inglesa tem prazo para ser disponibilizada?
-Quais os actos do Registo Comercial estão disponíveis na Internet?
-Quem pode realizar um Pedido de Registo por Transcrição?
-Para que tipo de Sociedades posso fazer um Registo por Transcrição?
+Como posso pagar uma certidão permanente de registo em Inglês?
+A versão inglesa da certidão permanente tem que disponibilidade?
+Que actos do Registo Comercial posso pedir pela Internet?
+Quais as pessoas que podem realizar um Pedido de Registo por Transcrição?
+Quais as tipologias das Sociedades para as quais posso fazer um Registo por Transcrição?
 Quais os pedidos de Registo por Transcrição que posso fazer?
 Quais os documentos necessários para um Registo por Transcrição?
-Que comprovativo tenho do registo efetuado?
-Quanto custa um pedido de Registo por Transcrição?
-Posso requerer o carácter de urgência em qualquer Registo por Transcrição?
-Qual a duração da realização de um Registo por Transcrição?
-Como sei se é necessário efetuar alterações ao pedido de registo?
-Depois de fazer um Registo por Transcrição recebo algum comprovativo?
-Consigo pedir uma conversão pela Internet do registo caso este fique provisório?
-Quais os pedidos de Registo por Depósito que posso efetuar?
-É possível efectuar mais do que um Registo por Depósito num mesmo pedido?
-Quem pode realizar Registos por Depósito?
-Qual a tipologia de Sociedades para as quais se podem fazer Registos por Depósito?
-O Registo por Depósito custa quanto?
-É preciso submeter documentos para efectivar o Registo por Depósito?
+Recebo um comprovativo ao efetuar o registo?
+Um pedido de Registo por Transcrição tem que custo associado?
+O requerimento do carácter de urgência está associado a quaisquer Registo por Transcrição?
+Qual o período de tempo da realização de um Registo por Transcrição?
+O que acontece se for preciso fazer alterações ao pedido de registo?
+Fico com algum comprovativo após fazer um Registo por Transcrição?
+Caso o registo fique provisório posso pedir a sua conversão pela Internet?
+Que tipo de pedidos de Registo por Depósito posso efectuar?
+Posso efectuar mais do que um Registo por Depósito num mesmo pedido?
+Quem tem autoridade para realizar Registos por Depósito?
+Para que tipo de Sociedades posso fazer Registos por Depósito?
+Qual o custo associado ao pedido de Registo por Depósito?
+Para efectivar o Registo por Depósito é necessário submeter documentos?
 Preciso de pedir o Registo Online de projecto de fusão?
-Preciso do Registo Online de fusão referente a cada uma das entidades participantes?
-A convocatória da assembleia geral para deliberação da fusão ou cisão pode ser publicada quando for feito o pedido de registo do respectivo projeto?
-As convocatórias para as assembleias gerais de todas as entidades participantes na fusão podem ser publicadas?
+Devo pedir o Registo Online do projecto de fusão sobre cada uma das entidades participantes?
+A quando do pedido do registo do projeto de fusão ou cisão posso publicar a convocatória da assembleia geral para deliberação do respectivo projeto?
+Publicar as convocatórias para as assembleias gerais de todas as entidades participantes na fusão é permitido?
 A realização do Registo por Depósito demora quanto tempo?
 A que tipos de certidão permanente posso aceder?
 Que serviços da Empresa Online estão disponíveis para cidadãos estrangeiros?
-Ao digitalizar os documentos que cuidados devo ter?
-O envio dos documentos originais para a Conservatória do Registo Comercial é necessário para os documentos já submetidos?
-A cada pedido de inscrição online qual o custo associado?
-Sobre que tipo de entidades posso fazer pedidos online?
-Quais os tipos de actos disponíveis?
+Que cuidados devo ter na digitalização dos documentos?
+Preciso de enviar os originais dos documentos que já submeti para a Conservatória do Registo Comercial?
+Qual o custo associado a cada pedido de inscrição online?
+Quais as entidades sobre as quais posso fazer pedidos online?
+Que tipo de actos podem ser pedidos?
 Quem pode solicitar inscrições online?
-Que documentos devem ser enviados?
-Quando devo indicar o representante para efeitos tributários?
-Quais as regras para a digitalização dos documentos?
+Que documentos devo encaminhar?
+Em que actos deve ser designado o representante para efeitos tributários?
+Que cuidados devo ter na digitalização dos documentos?
 Se os documentos forem submetidos é requerido enviar os originais para o RNPC?
-A submissão do pedido online será comprovada?
-Qual é a última data para pagar?
-Em que moldes pode ser feito o pagamento?
-Qual será o procedimento caso ocorram qualquer inconformidade?
-O RNPC tem que realizar a inscrição dentro de um prazo?
-Existe algum comprovativo de inscrição a que possa ter acesso após a mesma?
-Como recebo o cartão de pessoa colectiva?
-No caso de a inscrição ser recusada, o custo do emolumento pago é-me devolvido?
-É permitido um pedido de inscrição online ser solicitado com urgência?
-Que tipos de sociedades podem ser constítuidas nos balcões "Empresa na Hora"?
+Será comprovada a submissão de pedido online?
+Até quando pode ser feito o pagamento?
+O pagamento pode ser efetuar por quais meios?
+O que será feito se ocorrer alguma discrepância?
+Qual o prazo que o RNPC tem para efectuar a inscrição?
+Posso aceder a algum comprovativo após realizada a inscrição?
+De que modo poderei receber o cartão de pessoa colectiva?
+A importância do emolumento que paguei é devolvida no caso de rejeição de inscrição?
+É possível efectuar um pedido de inscrição online com urgência?
+Quais são os tipos de sociedades que podem ser contítuidas nos balcões "Empresa na Hora"?
 Existem sociedades que não podem ser constítuidas nos balcões "Empresa na Hora"?
 Qual é o balcão de atendimento "Empresa na Hora" que me devo dirigir?
-Existem alguns pressupostos da constituição de "Empresa na Hora"?
+Quais são as conjecturas na formação de "Empresa na Hora"?
 Para a constituição de uma "Empresa na Hora" é necessária a presença de todos os sócios?
-É possivel efetuar a reserva da firma que pretendo para a minha "Empresa na Hora", escolhendo da lista disponível de firmas constantes, previamente?
+Poderei reservar anteriormente a firma que pretendo para a minha "Empresa na Hora", escolhendo entre as firmas constantes da lista disponível?
 Quanto custa a formação de uma "Empresa na Hora"?
-Quantos dias terei para efetuar o depósito do capital social, após a constituição da "Empresa na Hora"?
-Existe algum tempo de espera para a possibilidade de levantamento do capital social da "Empresa na Hora"?
+Qual é o prazo de depósito do capital social da "Empresa na Hora"?
+Quando é possivel o levantamento do capital social da "Empresa na Hora"?
 Se não pretender limitar o objectico social para a minha empresa posso escolher uma firma pré-aprovada
-Quero construir a minha empresa na hora. E disponho de um Certificado de Admissibilidade de firma válido, posso utiliza-lo?
-Se quiser fazer a inscrição da sociedade nas finanças, na segurança social e outros serviços públicos, posso realiza-las no momento da constituição?
-Em alternativa à entrega de impresso em papel, é possível proceder à entrega electrónica da declaração de início de actividade para efeitos fiscais?
-Se forem pessoas colectivas estrangeiras, existe algum formalismo prévio? E será possível utilizar o processo de constituição da "Empresa na Hora" quando os sócios são pessoas colectivas? 
-A constituição de uma "Empresa na Hora" é possivel a cidadãos estrangeiros? Nestes casos, existe algum formalismo prévio que deva ser respeitado? 
-Para realizar a "Empresa na Hora" no momento da constituição, é necessária a presença do Técnico Oficial de Contas ?
-Qual a vantagem de indicar, desde logo, um Técnico Oficial de Contas?
+Se quiser construir a minha Empresa na hora, necessito de dispor de um Certificado de Admissibilidade?
+Quando for o momento da constituição posso efectuar a inscrição da sociedade nas finanças, na segurança social e outros serviços públicos?
+Para além do impresso em papel, posso entregar a forma electrónica da declaração de início de actividade para efeitos fiscais? 
+Será possível utilizar o processo de constituição da "Empresa na Hora" quando os sócios são pessoas colectivas? Existe algum formalismo prévio, se forem pessoas colectivas estrangeiros?
+Será possível, a cidadãos estrangeiros, a constituição de uma "Empresa na Hora"? Nestes casos, é necessário algum formalismo prévio ?
+Na constituição da "Empresa na Hora" é necessária a presença do Técnico Oficial de Contas ?
+Se indicasse logo um Técnico Oficial de Contas qual seria a vantagem ?
 Quais os custos associados à escolha de um TOC da Bolsa?
-No âmbito da "Empresa na Hora", a constituição de uma Sociedade Anónima requer a presença dos Revisores Oficiais de Contas?
+Os Revisores Oficiais de Contas são necessários para a constituição de uma Sociedade Anónima, no âmbito da "Empresa na Hora"?
 A que site devo aceder para consultar as publicações feitas?
-É necessário a Conservatória do Registo Comercial legalizar os Livros de Actas?
-Necessito de mais algum outro livro de escrituração mercantil?
-Existe algum regulamento ao qual os livros de actas devem obedecer?
-É possível obter o registo de um Domínio de Internet?
-Tenho de fazer alguma coisa para obter o registo do Domínio na Internet?
-Posso constituir uma "Empresa na Hora" com Marca associada?
-A minha "Empresa na Hora" pode aderir a um Centro de Arbitragem para conflitos de consumo?
-Como pedir o certificado de admissibilidade de firma ou denominação?
-Onde pedir um formulário para o pedido de certificado de admissibilidade? Quanto custa?
-A quem compete requerer o certificado de admissibilidade?
-O Cartão Provisório de Identificação de Pessoa Colectiva deve ser pedido de que forma?
+Os Livros de Actas requerem legalização por parte da Conservatória do Registo Comercial?
+Existem outros livros de escrituração mercantil obrigatórios?
+A que formalidades devem obedecer os livros de actas?
+Posso obter o registo de um Domínio de Internet?
+O que devo fazer para obter o registo do Domínio na Internet?
+Posso associar uma Marca à minha "Empresa na Hora"?
+Posso aderir a um Centro de Arbitragem para conflitos de consumo?
+Quais são as várias maneiras de pedir o certificado de admissibilidade de firma ou denominação?
+Onde posso adquirir os formulários para o pedido de certificado de admissibilidade e qual o seu custo?
+O certificado de admissibilidade deve ser requerido por quem?
+O que é necessário para requerer o Cartão Provisório de Identificação de Pessoa Colectiva?
 Ao fim de quanto tempo expira o certificado de admissibilidade?
-Quanto demora a ser emitido um certificado de admissibilidade?
-De que forma posso averiguar a viabilidade de uma firma ou denominação?
+O certificado de admissibilidade é emitido em quanto tempo?
+Onde está disponível a informação relativa  à viabilidade de uma firma ou denominação?
 O que devo fazer se perder o certificado de admissibilidade?
-O certificado de admissibilidade é preciso para alterar uma entidade já existente?
+Se prentender alterar um entidade já estabelecida, preciso de ter o certificado de admissibilidade?
 Um empresário/comerciante individual tem de ter um certificado de admissibilidade?
-É permitido renovar um certificado de admissibilidade?
+É possível renovar um certificado de admissibilidade?
 Que medidas existem que visam a proteção da marca, nome ou insígnia de estabelecimento junto do RNPC? 
 É possível uma sociedade utilizar elemento característico idêntico ao de sociedade já existente?
-Como inscrever em Portugal uma sucursal ou outra representação permanente de sociedade estrangeira?
+Como proceder para a inscrição em Portugal duma sucursal ou outra representação permanente de sociedade estrangeira?
 Como proceder para obtenção de informações sobre entidades inscritas no Ficheiro Central de Pessoas Colectivas?
- Quais os requisitos para obter uma cópia total ou parcial do Ficheiro Central de Pessoas Coletivas?
-Quais os requisitos para obter informações sobre entidades inscritas no Ficheiro Central de Pessoas Colectivas?
-Como inscrever um condomínio?
-Quais são os documentos necessários para a iscrição de uma associação?
-Que medidas tomar para a inscrição de uma fundação no Ficheiro Central de Pessoas Coletivas?
-Que medidas tomar para a inscrição de uma sociedade irregular?
-O que signica aprovação automática com menção de atividade?
-Como posso registar a minha marca ou logótipo?
+ Como obter uma cópia total ou parcial do Ficheiro Central de Pessoas Coletivas? (Ex: Associações com sede no concelho de Lisboa)
+Como proceder para obtenção de informação sobre dados estatísticos do Ficheiro Central de Pessoas Colectivas?
+Quais são os documentos necessários para a iscrição de um condomínio?
+Como inscrever uma associação?
+Quais são os documentos necessários para a iscrição de uma fundação no Ficheiro Central de Pessoas Coletivas?
+Quais são os documentos necessários para a iscrição de uma sociedade irregular?
+Para que serve a aprovação automática com menção de atividade?
+Onde requisito o registo de uma marca ou de um logótipo?
 Como posso impugnar uma decisão proferida pelo Registo Nacional de Pessoas Coletivas em matéria de firmas ou denominações, inscrição e identificação de pessoas coletivas e entidades equiparadas e registo de pessoas coletivas religiosas?
-É possivel anular o certificado de admissibilidade?
-Em que condições poderei desistir do pedido de certificado de admissibilidade?
-Como posso obter mais informações sobre atos e factos sujeitos a inscrição no FCPC?
+Posso invalidar o certificado de admissibilidade?
+É possivel desistir do pedido de certificado de admissibilidade?
+É possivel consultar mais informações em matéria de atos e factos sujeitos a inscrição no FCPC?
 Quanto tempo tenho para impugnar uma decisão do Registo Nacional de Pessoas Coletivas?
 Como posso opor-me à conta de um ato de registo ou a recusa de passagem de certidão?
 Como obter informações sobre a Classificação Portuguesa das Atividades Económicas (CAE)?
-Qual o preço associado à comunicação do nome comercial?
-Onde posso pedir a aprovação automática de firmas?
-Em que situações se podem utilizar os nomes constantes da bolsa de firmas com ou sem marca associada?
-O que é a Bolsa de Firmas com Marca Associada?
-Em que consiste a Bolsa de Firmas?
-A firma de empresário/comerciante individual deve ser composta de que forma?
-Se o registo ou inscrição da constituição de uma entidade não tiver sido promovido dentro do prazo de validade do certificado de admissibilidade, que devo fazer?
-Se pedir certificado de admissibilidade para efeitos de retificação do documento constitutivo de entidade ou para efeitos registo/inscrição da sua constituição, será atribuído o mesmo NIPC?
+Quanto custa a comunicação do nome comercial?
+Em que consiste a aprovação automática de firmas?
+Em que situações os nomes constantes da bolsa de firmas com ou sem marca associada podem ser utilizados?
+De que se trata a Bolsa de Firmas com Marca Associada?
+O que é a Bolsa de Firmas?
+Como devo compor a firma de empresário/comerciante individual?
+Se o registo ou inscrição da constituição de uma entidade não tiver sido promovido dentro do prazo de validade do certificado de admissibilidade, há alguma coisa a ser feita?
+O NIPC atribuído se pedir certificado de admissibilidade para efeitos de retificação do documento constitutivo de entidade ou para efeitos registo/inscrição da sua constituição será o mesmo?
 Num novo pedido, pode-se utilizar o emolumento pago por um pedido de certificado indeferido?
-O certificado de admissibilidade pode ser pedido?
-Quem são os subscritores do certificado de admissibilidade?
-Qual o preço do pedido de certificado de admissibilidade?
-Um desenho ou modelo trazem que vantagens?
-Qual o ganho por parte de um titular ao usufruir da protecção?
-Quais os cuidados prévios a ter em relação ao registo?
-Que tipo de produtos e de design não podem ser registados?
-De que documentos preciso para registar um desenho ou modelo?
-Qual é a forma correta de apresentar um pedido múltiplo de Desenho ou Modelo?
-Ao fim de quanto tempo é que o registo de um desenho ou modelo fica pronto?
-Qual é o custo de registar um desenho ou modelo?
-Qual é o período até a caducidade do registo de um desenho ou modelo?
-Que documentos são necessários para registar a transmissão de um desenho ou modelo?
-Criei um novo produto e pretendo saber se existe algo igual ou semelhante registado como desenho ou modelo. Que devo fazer?
-Estão a copiar o meu registo de desenho ou modelo. Que fazer?
+Alguém pode requerer urgência do certificado de admissibilidade?
+Quem tem autorização para subscrever o pedido de certificado de admissibilidade?
+Quanto custa o pedido de certificado de admissibilidade?
+Para que serve um modelo ou desenho?
+Qual a utilidade da protecção?
+O que é aconselhado fazer previamente ao registo?
+Existe proibição de registo para algum tipo de produtos e de design?
+De que é que preciso para registar um desenho ou modelo?
+Qual é a maneira certa de apresentar um pedido múltiplo de Desenho ou Modelo?
+Quanto tempo demora registar um desenho ou modelo?
+Qual é o preço de registar um desenho ou modelo?
+Qual é o período de expiração do registo de um desenho ou modelo?
+Tendo o contrato de um desenho ou modelo, onde se pode fazer o averbamento para sua transmissão para terceiros?
+Como posso assegurar que o meu novo produto é autêntico e ainda não foi registado um parecido?
+Em que local se pode formalizar uma queixa de abuso da propriedade industrial associada a um registo de desenho ou modelo?
 Marcas - O que são?
-As marcas só podem ter palavras?
+As marcas são apenas constituídas por palavras?
 O que se ganha ao registar uma marca?
-Como saber se já existe uma marca igual à minha?
-Quais os documentos necessários para registar uma marca? 
-Como nomear os produtos ou serviços que quero identificar com a minha marca?
+Como saber se a minha marca já existe?
+Que documentos preciso para registar uma marca?
+Como designar os produtos ou serviços que quero identificar através da minha marca?
 Quanto tempo leva até ter uma marca registada?
-Quais são os custos de registar uma marca?
-Quanto tempo demora a expirar o registo de uma marca?
-Existe a possibilidade de alterar o meu registo de marca?
-Como executo o averbamento de uma transmissão de marca?
-Que posso fazer em caso de recusa do meu pedido?
+Quanto custa o registo de uma marca?
+Quanto tempo dura o registo de uma marca?
+Posso alterar o meu registo de marca?
+Como posso efectuar o averbamento de uma transmissão de Marca?
+O que posso fazer se o meu pedido for negado?
 A marca caduca em que circunstâncias?
-Soube que foi pedido um registo de marca semelhante a uma marca que me pertence. Como resolver a situação?
-O que posso fazer se alguém estiver a imitar ou copiar a minha marca?
-Quais são os requisitos mínimos que uma marca deve ter para poder ser registada?
-Quais as consequências da falta de pagamento da taxa de concessão ou renovação de uma marca?
+Como proceder caso alguém tenha registado uma marca semelhante à minha?
+Vi alguém a copiar a minha marca. Onde posso apresentar queixa?
+Quais as características essenciais necessárias para o registo de uma marca?
+Quais os efeitos da falta de pagamento da taxa de concessão ou de renovação de uma marca?
 O que é o direito de prioridade?
 Como se encontram categorizadas as marcas de produtos e serviços?
-As marcas podem ser constituídas por expressões estrangeiras?
+Expressões estrangeiras podem constituir marcas?
 Como é o registo feito fora do país?
 Tenho uma invenção e pretendo saber se existe algo igual ou semelhante. Que devo fazer?
-Que devo fazer para registar um modelo de utilidade ou uma transmissão de uma patente?
-A minha invenção está a ser utilizada por outra pessoa, o que devo fazer?
- Como é que Modelo de Utilidade e Patente são diferentes?
- O que é uma Patente? 
- Para patentear um objeto, o que é preciso?
-O que não pode ser considerado objecto de patente?
-O que se define por Pedido Provisório de Patente?
-Que benefícios possui o pedido provisório?
-A que tipo de necessidades responde o pedido provisório?
-Como é feita a apresentação do pedido provisório?
+Como posso registar uma transmissão de patente ou modelo de utilidade?
+Estão a imitar a minha invenção. O que fazer?
+ Na protecção das invenções, qual a diferença entre Patente e Modelo de Utilidade?
+ Em que consiste uma Patente? 
+Quais as condições necessárias para que um invento possa ser patenteável?
+O que não é definido por objecto de patente?
+Em que consiste o Pedido Provisório de Patente?
+Que vantagens estão associadas ao pedido provisório?
+A que necessidades responde o pedido provisório?
+Como apresentar o pedido provisório?
 Quais os passos que sucedem a apresentação do pedido provisório?
- Como se converte um pedido provisório em pedido definitivo?
- E depois de convertido o pedido provisório?
+ Como converter um pedido provisório em pedido definitivo?
+ O que faço depois de convertido o pedido provisório?
  Qual o preço de um pedido de patente?
  Quanto tempo tenho de esperar antes de me ser concedida uma patente?
- Quanto tempo tenho de esperar antes de me ser concedido um modelo de utilidade?
- Em caso de recusa do meu pedido o que posso fazer?
- A minha patente foi concedida e agora?
+ Quanto tempo demora a concessão de um modelo de utilidade?
+ Que posso fazer em caso de recusa do meu pedido?
+ Agora que recebi a minha patente o que tenho de saber?
 Em que consiste uma factura electrónica?
 O que é o Intercâmbio Electrónico de Dados?
-Deve-se ter um diploma regulamentar para começar a implantar a factura electrónica?
-Que valor probatório pode ter a factura electrónica?
-Um sujeito passivo pode emitir as suas facturas ou documentos equivalentes, electronicamente?
-Quais os meios electrónicos usados para enviar facturas electrónicas?
-Pode enviar-se facturas electrónicas por correio electrónico?
-Deve-se transmitir a factura electrónica em que formato?
-Os sujeitos passivos devem conservar, em suporte papel, listagens das facturas emitidas e recebidas, caso recorram à emissão de facturas ou documentos equivalentes por via electrónica? 
-Segundo o n.º 5 do art.º 35.º do CIVA, as facturas ou documentos equivalentes devem ser emitidos em duplicado, como se deve entender tal obrigatoriedade num quadro de emissão de facturas ou documentos equivalentes por via electrónica?
-As facturas ou documentos equivalentes, emitidos por via electrónica, têm numeração sequencial própria, distinta da numeração das facturas emitidas em suporte papel, ou poder-se-á utilizar a mesma numeração sequencial para ambos os tipos de facturas? 
-Ao passar a emitir facturas por via electrónica para um cliente, todos os outros documentos (p.e. relativos a débitos ou créditos) deverão também ser emitidos por via electrónica? 
-Optando os sujeitos passivos pela emissão de facturas electrónicas, a obrigação de emitir as guias de transporte ou de remessa em suporte papel mantem-se?
-Quem é responsavel pelo arquivamento das facturas ou documentos emitidos e recebidos por via electrónica e como é que este deve ser feito?
-Se usar a via electrónica posso usufruir da auto-facturação?
-Existe alguma forma de garantir que a factura foi entregue ao cliente?
-Se a comunicação falha e se o meu cliente não recebe a factura sou responsável?
-Que requisitos deve cumprir o sistema de arquivo de facturas electrónicas?
-Como asseguro o acesso em linha e completo do arquivo de facturas electrónicas?
-Caso seja solicitado o acesso a facturas electrónicas pela Administração Fiscal, a visualização destas deverá ser efectuada num formato aproximado ao que é uma factura comercial?
-Quais são os requesitos da validação cronológica de facturas electrónicas?
-Na troca de facturas entre ume empresa sedeada em Portugal e outra sedeada noutro pais da União Europeia, que normas devem ser seguidas?
-É possivel digitalizar uma factura em papel para a tornar numa factura electrónica?
-É obrigatório seguir um Formato Standard para as facturas emitidas que possibilite a integração automática nos Sistemas de Informação aderentes?
-Quem decide qual o formato a utilizar nas facturas trocadas entre duas entidades?
-O que é necessário para poder enviar e receber Facturas ELectrónicas?
-É possivel emitir facturas electrónicas com um parceiro e facturas em papel para outros? E em simultâneo?
-É possível emitir facturas electrónicas em papel para as notas de crédito?
-Aonde posso obter o certificado digital?
-As assinaturas electrónicas avançadas apostas nas facturas electrónicas ou documentos equivalentes devem ser baseadas em certificados qualificados? 
-Quem é o titular da assinatura electrónica avançada aposta numa factura electrónica? 
-São as empresas os donos dos certificados digitais?
-Caso sejam credeciadas, posso usar as assinaturas das entidades emissoras de paises da União Europeia?
-O problema da facturação é tratado com o intercâmbio electrónico de dados?
-Existem normas técnicas na factura EDI?
-É necessário efectuar a aposição de uma Assinatura Electrónica ao EDI?
-Em caso de recurso a um serviço externo para a emissão das facturas electrónicas, quem é que atribui a numeração? 
-Segundo a lei posso me dirigir a um prestador de serviço de factura fora do país?
-Como devo proceder se o prestador de serviços não se encontrar na Europa
-Qual a localização do terminal se o tratamento da factura se encontrar fora das instalações do sujeito passivo?
-Como devo proceder para a Auto Facturação Electrónica, devo utilizar uma série de numeração?
-Factura electrónica é o quê?
-Em que consiste o Intercâmbio Electrónico de Dados?
-É preciso esperar por um diploma regulamentar para que as empresas adiram a um sistema de factura electrónica?
-Que valor probatório pode ter a factura electrónica?
-Os sujeitos passivos podem emitir facturas ou documentos equivalentes, por via electrónica?
+É necessário aguardar por um diploma regulamentar para começar a implantar a factura electrónica?
+A factura electrónica tem algum valor probatório?
+Qualquer sujeito passivo pode optar por emitir, por via electrónica, as suas facturas ou documentos equivalentes? 
 Através de quais meios electrónicos se podem enviar facturas electrónicas?
-Pode-se usar correio electrónico para envivar facturas electrónicas?
-A factura electrónica deve ser transmitida em que formato?
+É possível enviar facturas electrónicas através de correio electrónico?
+Em que formato deve ser transmitida a factura electrónica?
 É necessário conservar em suporte papel listagens das facturas emitidas e recebidas, se os sujeitos passivos recorrerem à emissão de facturas ou documentos equivalentes por via electrónica?
-Estabelecendo o n.º 5 do art.º 35.º do CIVA que as facturas ou documentos equivalentes deverão ser emitidos em duplicado, como deverá ser entendida tal obrigatoriedade num quadro de emissão de facturas ou documentos equivalentes por via electrónica? 
+Num quadro de emissão de facturas ou documentos equivalentes por via electrónica, como deverá ser entendida a obrigatoriedade estabelida no n.º 5 do art.º 35.º do CIVA, em que as facturas ou documentos equivalentes deverão ser emitidos em duplicado?
 A numeração sequencial de facturas ou documentos equivalentes emitidos por via electrónica é igual á numeração das facturas emitidas em papel, ou seja, é possivel utilizar a mesma numeração sequencial para ambos os tipos de facturas?
-Dado que as facturas são emitidas por via electrónica, todos os outros documentos (relativos a débitos ou créditos) do cliente deverão também ser emitidos por via electrónica?
-Optando os sujeitos passivos pela emissão de facturas electrónicas, a obrigação de emitir as guias de transporte ou de remessa em suporte papel mantem-se?
-Quem tem o dever de arquivar as facturas ou documentos emitidos e recebidos por via electrónica e como é que este é feito?
-É possível a auto-facturação de forma electrónica?
-É possivel garantir o acto de recepção caso o cliente disser que não recebeu a factura?
-Se a comunicação falha e se o meu cliente não recebe a factura sou responsável?
+Ao emitir facturas por via electrónica para um cliente, os documentos relativos a débitos ou créditos deverão ser também emitidos pela mesma via?
+Se optar pelos sujeitos passivos pela emissão de facturas ou outros documentos equivalente por via electrónica é obrigatório emitir as guias (de transporte ou de remessa) em suporte de papel?
+Como e quem tem o dever de arquivar as facturas ou documentos recebidos e emitidos electrónicamente?
+A via electrónica permite auto-facturação?
+Existe alguma forma de garantir que a factura foi entregue ao cliente?
+Caso a comunicação falhe e o meu cliente não receber a factura sou eu responsável?
 Que requisitos deve cumprir o sistema de arquivo de facturas electrónicas?
-Como garantir o acesso completo e em linha ao arquivo de facturas electrónicas?
+Como é que garanto o acesso completo e em linha ao arquivo de facturas electrónicas?
 Caso a Administração Fiscal solicite o acesso a facturas electrónicas, a sua visualização deverá ser efectuada num formato legível (mais aproximado ao que é uma factura comercial)? 
-Como é que é feita a validação cronológica para as facturas de via electrónica?
-Que normas se devem aplicar no caso de troca de facturas electrónicas entre uma empresa sedeada em Portugal e outra empresa noutro país da União Europeia? 
-Se digitalizar uma factura em papel e enviar o ficheiro resultante para um parceiro, esta factura é considerada uma factura electrónica?
-É obrigatório seguir um Formato Standard para as facturas emitidas que possibilite a integração automática nos Sistemas de Informação aderentes?
-Se duas entidades trocarem facturas, quem decide qual o formato a utilizar nestas?
-Se quizer enviar e receber Facturas Electrónicas o que é necessário obter?
-Posso emitir facturas em papel para um parceiro e por via electrónica para outros? E em simultâneo?
-Posso emitir facturas electrónicas em papel para notas de crédito?
-Quais as entidades que me podem fornecer o certificado digital e a chave privada?
+Quais são os requesitos da validação cronológica de facturas electrónicas?
+Quais são as normas a aplicar no caso de troca de facturas electrónicas entre uma empresa sedeada num país da Uniao Europeia e noutra sedeada em Portugal?
+Uma factura em papel digitalizada é considerada uma factura electrónica?
+É necessário seguir um formato Standard que permite a integração automáticas no Sistemas de for informação aderentes quando as facturas são emitidas?
+Qual o formato a utilizar nas facturas trocadas entre duas entidades?
+O que é necessário para poder enviar e receber Facturas ELectrónicas?
+Posso emitir facturas electrónicas com um parceiro e outros em papel? E em simultâneo? 
+Posso emitir notas de crédito em papel para facturas electrónicas? E o contrário?
+Aonde posso obter a chave privada do certificado digital?
 Devem as assinaturas electrónicas avançadas apostas nas facturas electrónicas serem baseadas em certificados qualificados?
 Quem é o titular da assinatura electrónica avançada aposta numa factura electrónica? 
-São as empresas os donos dos certificados digitais?
-Posso utilizar as assinaturas dadas por entidades emissores de outros países dentro da União Europeia?
-O problema da facturação é tratado com o intercâmbio electrónico de dados?
+Quem são os titulares dos certificados digitais: os indivíduos ou as empresas?
+Caso sejam credeciadas, posso usar as assinaturas das entidades emissoras de paises da União Europeia?
+Ao realizar o Electronic Data Interchange resolvo a facturação?
 Quais as normas que devem constatar da factura EDI?
-É preciso fazer uma aposição de uma Assinatura Electrónica para a Electronic Data Interchange?
+Necessito de realizar uma aposição de Assinatura Electrónica para o intercâmbio electrónico de dados?
 Quem faz a numeração se recorrer a um serviço externo?
-Posso recorrer a um prestador de serviço dentro da União Europeia?
+Um prestador de serviço de factura electrónica fora do país pode ser utilizado?
+Como devo proceder se o prestador de serviços não se encontrar na Europa
+Qual a localização do terminal se o tratamento da factura se encontrar fora das instalações do sujeito passivo?
+Para a Auto Facturação, posso utilizar uma série de numeração?
+O que é uma factura electrónica?
+O que é o EDI?
+Deve-se ter um diploma regulamentar para começar a implantar a factura electrónica?
+Qual o valor probatório da factura electrónica?
+Qualquer sujeito passivo pode optar por emitir, por via electrónica, as suas facturas ou documentos equivalentes? 
+Que meios electrónicos podem ser utilizados para enviar facturas electrónicas?
+Pode enviar-se facturas electrónicas por correio electrónico?
+Deve-se transmitir a factura electrónica em que formato?
+Recorrendo os sujeitos passivos à emissão de facturas ou documentos equivalentes por via electrónica deverão ser conservadas, em suporte papel, listagens das facturas emitidas e recebidas? 
+Segundo o n.º 5 do art.º 35.º do CIVA, as facturas ou documentos equivalentes devem ser emitidos em duplicado, como se deve entender tal obrigatoriedade num quadro de emissão de facturas ou documentos equivalentes por via electrónica?
+As facturas ou documentos equivalentes, emitidos por via electrónica, têm numeração sequencial própria, distinta da numeração das facturas emitidas em suporte papel, ou poder-se-á utilizar a mesma numeração sequencial para ambos os tipos de facturas? 
+Dado que as facturas são emitidas por via electrónica, todos os outros documentos (relativos a débitos ou créditos) do cliente deverão também ser emitidos por via electrónica?
+Optando os sujeitos passivos pela emissão das facturas ou documentos equivalentes por via electrónica mantém-se a obrigação de emitir em suporte papel as guias (de transporte ou de remessa) que devem acompanhar as mercadorias em circulação? 
+Como e quem tem o dever de arquivar as facturas ou documentos recebidos e emitidos electrónicamente?
+A via electrónica permite auto-facturação?
+É possivel garantir o acto de recepção caso o cliente disser que não recebeu a factura?
+Se o cliente não receber a factura dado uma falha de comunicação sou eu o responsável pela situação?
+Quais são os requesitos que o sistema de arquivo de facturas electrónicas deve cumprir?
+Como é que garanto o acesso completo e em linha ao arquivo de facturas electrónicas?
+Caso a Administração Fiscal solicite o acesso a facturas electrónicas, a sua visualização deverá ser efectuada num formato legível (mais aproximado ao que é uma factura comercial)? 
+Como se faz a validação cronológica de facturas electrónicas?
+Quais são as normas a aplicar no caso de troca de facturas electrónicas entre uma empresa sedeada num país da Uniao Europeia e noutra sedeada em Portugal?
+Se digitalizar uma factura em papel e enviar o ficheiro resultante para um parceiro, esta factura é considerada uma factura electrónica?
+As facturas emitidas têm que seguir um Formato Standard para ser possivel a integração automática com os Sistemas de Informação aderentes?
+Qual o formato a utilizar nas facturas trocadas entre duas entidades?
+O que é necessário para poder enviar e receber Facturas ELectrónicas?
+Se emitir facturas electrónicas com um parceiro posso emitir facturas eme papel para outros? E em simultanêo?
+É possível emitir facturas electrónicas em papel para as notas de crédito?
+Quais as entidades que me podem fornecer o certificado digital e a chave privada?
+Numa assinatura electrónica avançada aposta numa factura electrónica deve ser baseada em certificado qualificado?
+Quem são os titulares de uma assinatura electrónica avançada?
+Quem é o titular de um certificado digital?
+Se forem credenciadas nos seus paises posso utilizar as assinaturas das entidades emissoras dos paises da União Europeia?
+Quem já faz EDI tem o problema da facturação resolvido?
+Quais as regras da factura de intercâmbio electrónico de dados?
+Sou obrigado a efectuar ao Electronic Data Interchange um aposição de Assinatura Electrónica?
+No caso de uso de serviço externo para emissão de facturas electrónicas, quem numera?
+Um prestador de serviço de factura electrónica fora do país pode ser utilizado?
 Que devo fazer se o prestador estiver fora da Europa?
 Qual a localização do terminal se o tratamento da factura se encontrar fora das instalações do sujeito passivo?
 Como devo proceder para a Auto Facturação Electrónica, devo utilizar uma série de numeração?
-Quando se adquire o direito a férias?
+É possível adquirir o direito a Férias em que momento?
 É possível o trabalhador renunciar ao direito a férias?
 O trabalhador pode acumular férias de vários anos?
- A empresa pode ser encerrada para férias?
- Quem marca as férias?        
- As férias podem ser alteradas depois de marcadas? 
+ É possível uma empresa encerrar para férias?
+ As férias são marcadas por quem?        
+ É possível existir uma alteração nas férias depois de marcadas? 
  O que acontece a um trabalhador que, durante as férias, fique doente?
- Terá o trabalhador direito a férias quando o seu contrato fica suspenso por estar um mês ou mais 		fora da empresa por motivo de doença, acidente, serviço militar e serviço cívico?
+ Se, por motivo de doença,acidente,serviço militar ou serviço cívico um trabalhador ficar fora da empresa durante um mês ou mais e, 		consequentemente, o seu contrato ficar suspenso, terá este direito a férias?
  Se o contrato de trabalho cessar, quanto tempo de férias o trabalhador tem direito?
- É obrigatório um empregador dar férias ao seu trabalhador?
- É possível que um trabalhador pratique outra atividade durante as suas férias?
- É possível descontar faltas no período de férias?
- Se o empregador violar alguns destes deveres relacionados com as férias dos trabalhadores, o que acontece?
-O que se considera tempo de trabalho?
+ O trabalhador tem sempre direito a receber férias do seu empregador?
+ Durante o período de férias, pode um trabalhador exercer outra atividade?
+ O tempo de férias pode ser penalizado pelas faltas?
+ O que acontece caso o empregador viole alguns dos deveres relacionados com as férias dos trabalhadores?
+O que se entende por tempo de trabalho?
 O tempo de trabalho inclui interrupções e intervalos? Em caso afirmativo, quais?
 O que é o horário de trabalho?
-Há alguma limitação de tempo exigida para intervalos de descanso?
-É possível estabelecer uma redução ou dispensa do intervalo de descanso?
+Os intervalos de descanso têm limites mínimos e máximos a cumprir?
+Pode haver redução ou dispensa do intervalo de descanso? 
 Qual é a definição de período normal de trabalho?
-Quais os valores máximos que limitam o período normal de trabalho?
-Em que consiste o período de funcionamento?
-Quem estabelece o horário dos trabalhadores?
-Existe mais algum critério legal que deva ser respeitado na fixação do horário de trabalho?
- Se houver alterações no horário de trabalho, quais são os procedimentos que o empregador deve observar? 
-Se o horário de trabalho for alterado o trabalhador deve receber compensação económica?
+Que limites pode o período normal de trabalho atingir?
+O que se entende por período de funcionamento? 
+O horário de trabalho é definido por quem?
+Ao fixar o horário de trabalho, deve ser respeitado mais algum critério legal?
+ Em caso de alteração do horário de trabalho, quais os procedimentos que o empregador deve observar?
+A alteração do horário de trabalho dá direito ao trabalhador a receber compensação económica?
 Se o período da alteração não superar uma semana?
-Na empresa deve estar afixado o horário de trabalho?
+O horário de trabalho deve estar visível?
 O que deve constar do mapa de horário de trabalho?
-Que mais deve constar dos mapas de horário de trabalho?
+E se o mapa de horário de trabalho não for igual para todos os trabalhadores?
 Qual o significado de regime de adaptabilidade do horário de trabalho?
  Qual o procedimento aplicável aos agentes económicos que exercem atividades diversas do comércio a retalho para que possam participar em feiras? 
- Quais os requisitos necessários para a aceder à atividade de feirante e/ou de vendedor ambulante? 
- A comunicação prévia deve ser apresentada por quem? 
- Se o agente económico exercer ambas as atividades de comércio a retalho não sedentário (feirante e vendedor ambulante) é orbigatório apresentar uma mera comunicação prévia para cada atividade? 
- O que é o título de exercício da atividade de feirante e de vendedor ambulante? 
- O feirante e o vendedor ambulante que exerçam uma outra atividade a título principal são obrigados a obter o título de exercício de atividade? 
- Os participantes ocasionais em feiras necessitam de obter o título de exercício de atividade? 
- Para obtenção do título de exercício de atividade, onde pode ser entregue a mera comunicação prévi? 
-Qual o custo do título de exercício da atividade?
-A mera comunicação prévia pode ser efetuada online?
-É obrigatória a apresentação da mera comunicação prévia por feirantes que tiverem cartão emitido ao abrigo do regime anterior 
-Deve a mera comunicação prévia ser apresentada por vendedores ambulantes que tiverem cartão emitido pelas câmaras municipais ao abrigo do regime anterior?
+ Para a aceder à atividade de feirante e/ou de vendedor ambulante quais são as formalidades necessárias? 
+ Quais as regras sobre quem deve apresentar a mera comunicação prévia? 
+ Se o agente económico exercer ambas as atividades de comércio a retalho não sedentário (feirante e vendedor ambulante) é necessário apresentar uma mera comunicação prévia para cada atividade? 
+ Qual a definição de título de exercício da atividade de feirante e de vendedor ambulante? 
+ O titulo de exercício de atividade é necessário ser obtido por feirantes ou vendedores ambulantes que exerçam uma outra atividade a titulo principal? 
+ Os participantes ocasionais em feiras são obrigados a obter o título de exercício de atividade? 
+ Onde pode ser entregue a mera comunicação prévia para obtenção do título de exercício de atividade? 
+Qual a despesa para obter o título de exercício da atividade?
+Existe alguma restrição face a efetuar a mera comunicação prévia online?
+ Qual a obrigatoriedade da apresentação da mera comunicação prévia por feirantes que tiverem cartão emitido ao abrigo do regime anterior
+Os vendedores ambulantes que tiverem cartão emitido pelas câmaras municipais ao abrigo do regime anterior devem apresentar a mera comunicação prévia?
 Quais as restrições face a agentes económicos residentes noutros Estados-Membros participarem em feiras e a exercerem a venda ambulante no território nacional? 
-Caso a mera comunicação prévia não seja apresentada, a que sanções é sujeito o feirante/vendedor ambulante?
-É obrigatório o feirante/vendedor ambulante identificar junto da DGAE todos os colaboradores da empresa?
-Deve o cônjuge do feirante ou vendedor ambulante que com ele exerça atividade ser indicado como colaborador?
-A admissão de colaboradores pensionistas deve ser comunicada pelo feirante/vendedor ambulante?
-Se o colaborador for trabalhador por conta de outra entidade, efetuando descontos para a Segurança Social por conta desta, e colaborar, a tempo parcial, com o feirante/vendedor ambulante, deve a sua admissão ser comunicada à DGAE?
+Em caso de não apresentação da mera comunicação prévia quais as sanções aplicáveis?
+O feirante/vendedor ambulante deve identificar junto da DGAE todos os colaboradores da empresa?
+Existe alguma regra que impeça o cônjugue do feirante ou vendedor ambulante que com ele exerça a atividade de ser indicado como colaborador?
+O feirante/vendedor ambulante deve comunicar a admissão de colaboradores pensionistas?
+Se o colaborador, trabalhando a tempo parcial com o feirante/vendedro ambulante, for trabalhador por conta de outra entidade, efetuando descontos para a Segurança Social por conta desta, deve a sua admissão ser comunicada à DGAE?
 Se o colaborador for um trabalhador independente em regime de prestação de serviços, sem vínculo laboral, deve o feirante/vendedor ambulante, comunicar a sua admissão à DGAE?
 Têm de ser inscritos na Segurança Social e identificados na DGAE como colaboradores, os familiares que ajudam pontualmente o feirante/vendedor ambulante, no transporte, montagem e desmontagem de equipamentos nos locais de venda, sem remuneração?
-Posteriormente à apresentação da mera comunicação prévia é necessário fazer mais alguma comunicação?
-Quais os documentos que devem estar com o feirante ou vendedor ambulante no local de venda?
-Como é possível comprovar a apresentação à DGAE da mera comunicação prévia, enquanto o título não for emitido?
-É suficiente a posse do título de exercício para participar em feiras e para a vende ambulante?
-Um pedido de segunda via do título de exercício de atividade ou do letreiro identificativo é feito como?
+Após a apresentação da mera comunicação prévia, é necessário comunicar mas alguma coisa?
+No local de venda, que documentos devem estar na posse do feirante ou vendedor ambulante?
+Enquanto o título não é emitido, como é possível provar a apresentação da mera comunicação prévia?
+O que é necessário para a participação em feiras e para a venda ambulante, para além do título de exercício de atividade?
+De que modo um pedido de segunda via do título de exercício de atividade ou do letreiro identificativo é feito?
 Relativamente à atividade de feirante e de vendedor ambulante, quais são os códigos da CAE aplicáveis à mesma?
 É obrigatório ter em suporte durável o cartão de feirante e de vendedor ambulante e do letreiro identificativo?
-Todas as feiras estão abrangidas pela Lei n.º 27/2013?
+Abrange todas as feiras a Lei n.º 27/2013?
 Que fazer quando ocorra a cessação da atividade de feirante ou de vendedor ambulante?
 Quais as consequências de não se comunicar a cessação de atividade por parte do feirante ou vendedor ambulante?
 Que regime jurídico é o aplicável às atividades de feirante e de vendedor ambulante?
 Que entidades não estão sujeitas a registo de prestação de contas?
-O registo de prestação de contas é aplicável a que tipos de entidades?
-O registo da prestação de contas através da IES, é feito como?
-Mantém-se a obrigação de responder a inquéritos do INE?
-Os documentos de prestação de contas têm de ser entregues em papel?
-O registo da prestação das contas em papel continua a poder ser feito nas conservatórias?
-O registo da prestação de contas também se aplica às sociedades em nome coletivo e às sociedadesem comandita simples?
-A entrega da IES/DA pode ser feita até quando?
-O que acontece se a IES não for entregue?
-Com a entrega da IES, os impostos das empresas são pagos via Internet?
-Tem de se pagar a IES?
-O que é a Informação Empresarial Simplificada (IES)?
-Que qualificações especificas são necessárias para proceder à entrega da IES?
-Quem é que recebe os formulários da IES?
-Deixa de ser necessário enviar dados estatísticos para o Banco de Portugal?
-As obrigações fiscais têm custos associados?
+A que entidades se aplica a obrigação de registo de prestação de contas?
+Como se faz o registo da prestação de contas junto da IES?
+A resposta aos inquéritos do INE continua a ser obrigatória?
+É necessário entregar em papel os documentos de prestação de contas?
+Nas conservatória pode-se fazer o registo da prestação de contas em papel?
+As sociedades em nome coletivo estão obrigadas ao registo da prestação de contas? E as sociedadesem comandita simples?
+Até quando se pode entregar a IES/DA?
+Quais as penalidades pela não entrega da IES?
+O pagamento dos impostos pelas empresas, com a entrega da IES, é via Internet?
+A IES é paga?
+A IES é o quê?
+A IES pode ser entregue por quem?
+A quem são entregues os formulários relativos à IES?
+É necessário continuar a enviar os dados estatísticos para o Banco de Portugal?
+É necessário pagar para cumprir uma obrigação fiscal?
 Relativamente à entrega da Declaração Anual para efeitos fiscais, mantém-se a obrigação de entrega?
-O que define empresa individual?
+Como se define empresa individual?
 De que se tratam as sociedades unipessoais por quotas?
-O que é um Estabelecimento Individual de Responsabilidade Limitada?
+De que se tratam Estabelecimentos Individuais de Responsabilidade Limitada?
 O que é uma Sociedade por Quotas?
-Como se define uma Sociedade Anónima?
-O que é uma Sociedade em Nome Colectivo?
-O que são sociedades em comandita?
-Relativamente ao IRC quais os sujeitos passivos?
-Os meus rendimentos estão sujeitos a IRC?
-Quando decorre o período de tributação do IRC?
-Qual é a definição de estabelecimento estável no âmbito do IRC?
-Que Regimes de Tributação é que o IRC prevê?
-Em que contexto é aplicada a tributação autónoma?
-Tenho uma empresa. Que tipo de apoio técnico oferece o IEFP?
+A que dizem respeito as Sociedades Anónimas?
+De que se trata uma Sociedade em Nome Colectivo?
+De que se tratam as sociedades em comandita?
+No âmbito do IRC quem são os sujeitos passivos?
+Quais são os rendimentos sujeitos a IRC?
+O período de tributação do IRC corresponde ao ano civil?
+De que se trata estabelecimento estável no âmbito do IRC?
+O IRC prevê quais Regimes de Tributação?
+Quando são aplicadas tributações autónomas?
+Posso obter algum apoio técnico do IEFP sendo empresário?
 Caso contrate mais pessoas para trabalhar na minha empresa, o IEFP fornece algum tipo de ajuda financeira?
 Sou jovem e nunca estive empregado. Gostaria de criar a minha própria empresa. O IEFP pode ajudar-me?
-Beneficio de subsídio de desemprego, no entanto gostaria de abrir o meu próprio negócio. Será que o IEFP tem algum apoio para a minha situação?
-O que devo fazer caso me defronte com um obstáculo comercial num mercado externo?
+Sou beneficiário do subsídio de desemprego, mas gostaria de abrir o meu próprio negócio. O IEFP tem algum apoio específico para a minha situação?
+Caso me depare com uma barreira comercial num mercado externo, o que me é aconselhado fazer?
 Quero começar a exportar / dar início ao processo de internacionalização da minha empresa. Que apoios posso obter?
-Mediante o investimento nas empresas do QREN, que apoios existem?
+Quais os incentivos ao investimento das empresas do QREN?
 Em que consiste a certificação profissional? Como é que pode ajudar a melhorar a qualidade do emprego?
-A obtenção de certificação profissional é vantajosa para um trabalhador?
-Caso uma empresa admita um(a) trabalhador(a) certificado(a), que benefícios obtém?
-Qual a definição de perfil profissional?
-Tendo em conta a certificação dos trabalhadores, como são fixados os referenciais de competências profissionais?
-O que é uma Entidade Certificadora?
+Quais as vantagens da certificação profissional para um trabalhador?
+Que vantagens adquire uma empresa caso admita um(a) trabalhador(a) certificado(a)?
+O que é que um perfil profissional contém?
+De que modo é efetuada a fixação de referenciais de competências profissionais para efeitos de certificação dos trabalhadores?
+Em que consiste uma Entidade Certificadora?
 A certificação profissional abrange que setores e áreas profissionais?
-Para ser certificado, o que é que eu devo fazer? São me exigidos que documentos?
-Já estive empregado. É possível obter a certificação com base neste facto?
-Faltas, o que são?
+O que devo fazer para ser certificado? Que documentos me são exigidos?
+Posso obter a certificação com base apenas na experiência de trabalho?
+O que são faltas?
 Quais são as faltas justificadas e injustificadas?
-Convenções colectivas podem considerar como justificadas outras faltas?
-Quando é que se deve comunicar a falta justificada?
-Relativamente à justificação da falta, como pode o empregador exigi-la?
-As faltas justificadas serão todas pagas pelo empregador?
-Quais as implicações das faltas injustificadas?
-Se o empregador violar alguns dos direitos relacionados com a justificação das faltas ou o seu desconto nas férias, o que acontece?
-O que se entende por Entidade de Apoio à Alternância (EAA)?
-Que requisitos a minha entidade tem de reunir para poder colaborar com o IEFP como Entidade de Apoio à Alternância?
+Podem outras faltas serem consideradas como justificadas pelas convenções colectivas?
+Se for preciso justificar uma falta, quando se deve fazer essa comunicação?
+Como pode o empregador exigir a justificação da falta?
+Todas as faltas justificadas serão pagas pelo empregador?
+Quais são as consequências das faltas injustificadas?
+O que acontece quando o empregador viola os direitos relacionados com a justificação das faltas ou o seu desconto nas férias?
+O que quer dizer Entidade de Apoio à Alternância (EAA)?
+Que requisitos deve a minha entidade satisfazer para colaborar com o IEFP como Entidade de Apoio à Alternância?
 Que atribuições e responsabilidades terei como Entidade de Apoio à Alternância?
 Qual a documentação que deve ser apresentada pela Entidade de Apoio à Alternância?
-O que significa a homologação de um curso de formação profissional?
+A que diz respeito a homologação de um curso de formação profissional?
 Como deve proceder para homologar um curso?
 Quem e quando é que pode faltar ao trabalho?
-Existem várias modalidades de isenção do horário de trabalho? Quais?
-A isenção de horário de trabalho abrange os dias de descanso semanal?
- Estando na situação de isenção de horário, tenho alguma retribuição especial? 
- De que se tratam os Julgados de Paz? 
- Qual o valor monetário associado à resolução de um litígio num Julgado de Paz? 
- Que soluções podem ser encontradas para resolver os conflitos? 
- De que modo é desenvolvido o processo nos Julgados de Paz? 
- Pode recorrer-se da sentença proferida pelo juiz de paz? 
- É obrigatório efetuar a constituição de advogado? 
- Os conflitos dos Julgados de Paz são mediados por quem? 
-Quais as circustâncias que podem levar alguém a ficar em casa?
 Existem formas de obter isenção do horário de trabalho e quais são as mesmas?
-A isenção de horário de trabalho abrange os dias de descanso semanal?
+O tempo de isenção de horário de trabalho têm em conta os fins de semana?
  Estando na situação de isenção de horário, tenho alguma retribuição especial? 
  Qual a definição de Julgados de Paz? 
- Quanto tenho de pagar para resolver um litígio num Julgado de Paz? 
- Que métodos podem ser utilizados para resolver os conflitos? 
+ Qual o custo da resolução de um litígio num Julgado de Paz? 
+ Que soluções podem ser encontradas para resolver os conflitos? 
  Como se desenrola o processo nos Julgados de Paz? 
- A sentença proferida pelo juiz de paz pode ser recorrida? 
- A constituição de advogado é necessária? 
+ É possível recorrer da sentença que o juiz de paz proferiu? 
+ Constituir advogado é uma necessidade? 
  Por quem é efetuada a mediação dos conflitos dos Julgados de Paz? 
+Sobre que requisitos alguém se pode ausentar ao trabalho?
+Existem formas de obter isenção do horário de trabalho e quais são as mesmas?
+Os dias de isenção de horário de trabalho incorporam o descanso semanal obrigatório?
+ Estando na situação de isenção de horário, tenho alguma retribuição especial? 
+ De que se tratam os Julgados de Paz? 
+ Quanto tenho de pagar para resolver um litígio num Julgado de Paz? 
+ Que soluções podem ser encontradas para resolver os conflitos? 
+ Que passos estão envolvidos no processo nos Julgados de Paz? 
+ A sentença proferida pelo juiz de paz pode ser recorrida? 
+ Constituir advogado é uma necessidade? 
+ Quem é o mediador de conflitos dos Julgados de Paz? 
+ Quais as características que tem de ter um trabalho para ser considerado trabalho noturno? 
+ Quanto tempo pode levar o período de trabalho noturno caso não esteja fixado em convenção colectiva? 
+ Quando é que se pode considerar um trabalhador como trabalhador nocturno? 
+ Sendo que um trabalhador possui o papel de trabalhador noturno, quais os direito que este possui? 
+ Qual o conteúdo do acordo de Mediação Laboral? 
+ A Mediação Laboral tem que duração? 
+ Que indivíduo pode ser Mediador Laboral? 
+ Que principais vantagens da Mediação Laboral se podem apontar? 
  O que é o trabalho nocturno? 
- Quanto dura o período de trabalho nocturno se não estiver fixado em convenção colectiva? 
- De que forma poderá um trabalhador ser considerado um trabalhador nocturno? 
- Quais benefícios tem um trabalhador nocturno? 
- Qual a composição do acordo de Mediação Laboral? 
+ Caso não esteja fixado em convenção colectiva, até quanto pode ser a durabilidade do período de trabalho nocturno? 
+ Quais as características de trabalho que levam a que um trabalhador assuma um papel de trabalhador nocturno? 
+ Quais as vantagens que um trabalhador pode obter sendo este um trabalhador nocturno? 
+ Qual o conteúdo do acordo de Mediação Laboral? 
  A Mediação Laboral tem que duração? 
  Quem pode ser Mediador Laboral? 
  Que principais vantagens da Mediação Laboral se podem apontar? 
- Em que consiste o trabalho nocturno? 
- E se não estiver fixado em convenção colectiva, qual é o período de trabalho nocturno? 
- Quando é que se pode considerar um trabalhador como trabalhador nocturno? 
- Quais benefícios tem um trabalhador nocturno? 
- Qual a composição do acordo de Mediação Laboral? 
- Qual a duração da Mediação Laboral? 
- Quais as qualificações para exercer Mediação Laboral? 
- Quais são as principais vantagens da Mediação Laboral? 
-Qual a definição de RAMA?
-Em que consiste um ensaio num alimento medicamentoso?
-Para que serve um distribuidor de alimentos medicamentosos?
-O que se entende por alimento medicamentoso para animais?
+O que se entende por RAMA?
+Em relação a um alimento medicamentoso, o que é um ensaio?
+O que é um distribuidor de alimentos medicamentosos?
+O que é um alimento medicamentoso para animais?
 O que se entende por parque zoológico?
 No âmbito dos parques zoológicos quem são as autoridades competentes?
-Que diferenças teem um centro de armazenagem de acesso público e um de acesso privativo?
+Qual a diferença entre um centro de armazenagem de acesso público e um de acesso privativo?
 Qual a função de centros de armazenagem de sémen de bovino?
-O que é que define um detentor?
+Quais as caracteristicas que definem um detentor?
 Qual o diploma que determina as normas legais a aplicar em Portugal relativas à Convenção Europeia para a Proteção dos Animais de Companhia?
 O que é um animal de companhia?
-O que é um animal selvagem?
-O que faz um animal ser um animal vadio ou errante?
+O que faz um animal ser um animal selvagem?
+O que é um animal vadio ou errante?
 O que torna um animal ser potencialmente perigoso?
-O que é um alojamento?
+O que torna um local um alojamento?
 O que caracteriza um local de hospedagem?
 O que se entende por hospedagem sem fins lucrativos?
 O que é a hospedagem com fins lucrativos?
-Qual a definição de hospedagem com fins médico-veterinários?
-O que significa hospedagem com fins higiénicos?
-O que significa centro de recolha?
-O que se entende por pessoa competente?
-O que se entende por autoridade competente?
-Qual é a definição de abandono de animais de companhia?
+O que se entende por hospedagem com fins médico-veterinários?
+Qual a definição de hospedagem com fins higiénicos?
+Qual é a definição de centro de recolha?
+O que significa pessoa competente?
+O que significa autoridade competente?
+O que se entende por abandono de animais de companhia?
 Em que consiste o plano de controlo?
-O que significa comerciante de animais?
-O Decreto-Lei n.º 142/2006, de 27 de Julho afeta que comerciantes?
-Em que consiste a atividade de comércio por grosso?
-Feiras grossistas podem ser organizadas por quem?
-O que tenho de fazer para participar numa feira grossista?
+Qual é a definição de comerciante de animais?
+Quem é abrangido pelo Decreto-Lei n.º 142/2006, de 27 de Julho?
+A atividade de comércio por grosso abrange o quê?
+Quem consegue organizar feiras grossistas?
+Que requisitos tenho de cumprir se quiser participar numa feira grossista?
 É obrigatória a afixação da placa identificativa de estabelecimento de alojamento local?
 É possível entregar a ficha de segurança contra riscos de incêndio antes da comunicação prévia de abertura de estabelecimento de alojamento local?
-Como podem ser classificados os estabelecimentos de alojamento local?
+Quais são os tipos de estabelecimentos de alojamento local existentes?
 Como se define um estabelecimento de alojamento local?
+Se a câmara municipal não efetuar a vistoria, em 60 dias, após apresentação da comunicação prévia, tenho que encerrar o meu estabelecimento?
+ Em que consiste a certificação regulada por legislação laboral? 
+ O que é a certificação no âmbito da política da qualidade de serviços? 
+ Posso partilhar a acreditação?
+ Quais são as competências de uma escola profissional? 
+ O que é autonomia pedagógica? 
+ O que é a certificação de uma entidade formadora? 
+ Quais são os responsabilidades de uma direção pedagógica de um estabelecimento de ensino particular e cooperativo?
+ Qual o significado de paralelismo pedagógico? 
+ O que é um curso profissional? 
+É obrigatória a afixação da placa identificativa de estabelecimento de alojamento local?
+A ficha de segurança contra riscos de incêndio deve ser entregue aquando da mera comunicação prévia de abertura de estabelecimento de alojamento local? 
+Que tipos de estabelecimentos de alojamento local existem?
+Qual a definição de estabelecimento de alojamento local?
 É obrigatório fechar o meu estabelecimento se a câmara municipal não efetuar a vistoria, no prazo de 60 dias, após apresentação da mera comunicação prévia?
  Qual é o siginificado de certificação regulada por legislação laboral? 
- O que significa certificação inserida na política da qualidade dos serviços? 
+ Qual é a definição de certificação inserida na política da qualidade dos serviços? 
  A acreditação é permutável?
  O que pode oferecer uma escola profissional? 
  Em que consiste a autonomia pedagógica? 
- O que é a certificação de uma entidade formadora? 
- Quais são as aptidões de uma direção pedagógica de um estabelecimento de ensino particular e cooperativo? 
- Em que se baseia o paralelismo pedagógico? 
- O que é um curso profissional? 
-Num estabelecimento de alojamento local a afixação da placa identificativa é obrigatória?
-Pode a ficha de segurança contra riscos de incêndio ser entregue antes da comunicação prévia de abertura de estabelecimento de alojamento local?
-Quais são os tipos de estabelecimentos de alojamento local existentes?
-Qual a definição de estabelecimento de alojamento local?
-É obrigatório fechar o meu estabelecimento se a câmara municipal não efetuar a vistoria, no prazo de 60 dias, após apresentação da mera comunicação prévia?
- O que significa certificação regulada por legislação laboral? 
- Em que consiste a certificação inserida na política da qualidade dos serviços? 
- Posso partilhar a acreditação?
- Quais são as habilitações de uma escola profissional?
- Em que consiste a autonomia pedagógica? 
  Qual o significado de certificação de uma entidade formadora? 
- Quais são as qualificações de uma direção pedagógica de um estabelecimento de ensino particular e cooperativo? 
- Qual o significado de paralelismo pedagógico? 
- O que se entende por curso profissional? 
-O processo nas Loja da Empresa?
-Quais os cargos de cada pessoa nas lojas da Empresa?
-Durante que periodo de tempo se encontram abertas as lojas da Empresa?
-O Decreto-Lei nº 217/2012 cobre alguma instalação de armazenamento que é utilizado por produtos derivados de petróleo?
-Combustíveis líquidos são o quê?
-O que se pode considerar como os gases de petróleo liquefeitos (GPL)?
-Quais são os outros gases derivados do petróleo?
-O que se pode considerar instalações de abastecimento de combustíveis (ou postos de abastecimento de combustíveis)?
-O que entender por instalações de armazenamento de combustíveis?
-O que se entende por manipulação em instalações de armazenamento?
+ Quais são as competências de uma direção pedagógica de um estabelecimento de ensino particular e cooperativo? 
+ O que é paralelismo pedagógico? 
+ Qual a definição de curso profissional? 
+Como é o processo nas lojas da Empresa?
+Quais as ocupações de cada funcionário nas lojas da Empresa?
+Quando abrem e encerram as lojas da Empresa?
+Existem produtos derivados de petróleo que utilizam instalações de armazenamento abrangidas pelo Decreto-Lei n.º 217/2012?
+O que são combustíveis líquidos?
+Que gases de petróleo liquefeito existem (GPL)? 
+O que entender por outros gases derivados do petróleo?
+O que se entende por instalações de abastecimento de combustíveis (ou postos de abastecimento de combustíveis)?
+O que são instalações de armazenamento de combustíveis?
+A que diz respeito a manipulação em instalações de armazenamento?
 O que são outros derivados do petróleo?
 O que entender por parque de armazenamento de garrafas de GPL?
 O que é o posto de garrafas?
-O que entender por posto de reservatórios?
-Quais os produtos do petróleo?
-Quais são os produtos substituintes de produtos do petróleo?
+O que é considerado o posto de reservatórios?
+O que são produtos do petróleo?
+O que são produtos substituintes de produtos do petróleo?
 Mais sobre a rede de distribuição de GPL?
-Utilizador não profissional é consistido por quem?
+O que significa utilizador não profissional?
 O que é o uso não profissional de produtos fitofarmacêuticos?
 A que se refere o termo estabelecimento de venda?
 O que se entende por aplicação terrestre?
-O que é uma zona urbana?
-O que se entende por empresa distribuidora?
-O que é um técnico responsável?
-O que significa aplicador especializado de produtos fitofarmacêuticos? 
-O que faz um operador de venda?
-O que é um aplicador?
-O que é uma via de comunicação?
-O que é uma aplicação aérea?
+A que se refere o termo zona urbana
+O que significa empresa distribuidora?
+O que faz um técnico responsável?
+O que faz um aplicador especializado de produtos fitofarmacêuticos?
+Que funções tem um operador de venda?
+O que se entende por aplicador?
+O que se entende por via de comunicação?
+Em que consiste uma aplicação aérea?
 O que significa zona de lazer?
-A que se refere o termo produto fitofarmacêutico?
-Quem constitui o pessoal de segurança privada?  
+O que fazem os produtos fitofarmacêuticos?
+O que define o termo pessoal de segurança privada?
 Em que consiste uma entidade consultora de segurança?
 O que significa entidade formadora?
 O que é um serviço de autoproteção?
-O que é uma empresa de segurança privada?
-Qual é o significado de franchising?
-Qual é o custo de um franchising?
-O que significa franchisador?
-Quem é o franchisado?
+Pelo que é responsável uma empresa de segurança privada?
+O que é um franchising?
+Quanto custa um franchising?
+Quem é o franchisador?
+O que se entende por franchisado?
 O que se entende por "Master franchisado"?
-A aquisição de direitos de entrada e franquias podem beneficiar de apoios?
-Sou empresário e pretendo dar oportunidade de emprego a pessoas com especiais dificuldades de inserção, poderei receber algum apoio do IEFP?
-O que é uma denominação de origem?
-O que é o Boletim da Propriedade Industrial?
-O que significa Estado da Técnica?
-O que significa CAE?
-Actualmente, qual é a versão da CAE em efeito?
-Onde é aplicada a CAE?
-Onde posso consultar a nomenclatura completa da CAE?
-Posso consultar online os dados estatísticos de serviços do Instituto dos Registos e do Notariado?
-Quais são os feriados obrigatórios?
-Os feriados têm uma data fixa?
-Além dos feriados obrigatórias podem ser observados outros?
-Como se define Benchmarking?
-Quando se recorre ao Benchmarking?
+A aquisição de uma licença de franchising e investimentos conexos, podem beneficiar de apoios?
+Poderei obter algum apoio do IEFP?
+O que significa denominação de origem?
+O que se entende por Boletim da Propriedade Industrial?
+A que diz respeito o Estado da Técnica?
+O que se entende por CAE?
+No momento actual, qual a versão da CAE em vigor?
+Qual o seu âmbito geográfico de aplicação?
+Onde está disponível a nomenclatura completa da CAE?
+Tenho acesso aos dados estatísticos de serviços do Instituto dos Registos e do Notariado?
+Quais são os feriados impostos por lei?
+Pode haver mudança dos feriados?
+Existem outros feriados que não sejam obrigatórios?
+Qual é a definição de Benchmarking?
+Quando começa um processo de Benchmarking?
 O que é um Plano de Negócios?
-Em que altura se deve redigir o Plano de Negócios?
+Em que fase deve compor um Plano de Negócios?
 Onde encontrar informação sobre mercados externos?
-Quais as Fontes de Informação mais utilizadas na Informação Económica e Estatística sobre Comércio Internacional e Indicadores Macroeconómicos?
+Sobre Informação Económica/Estatística, quais as fontes mais importantes?
 É possível suspender a atividade da minha empresa de Trabalho Temporário? Por que periodo de tempo?
-O que devo fazer para requerer a suspensão da actividade?
-Existe algum organismo ao qual possa recorrer após ter sido negado acesso a documentos admnistrativos?
-O que é comércio a retalho não sedentário?
+Como devo proceder para suspender a atividade da minha empresa?
+É possível recorrer a alguma entidade por me terem negado acesso a documentos admnistrativos?
+O que é a atividade de comércio a retalho não sedentário?
 Por quem podem ser organizadas feiras retalhistas?
-Onde posso aceder ao plano anual de feiras e locais?
-Relativamente à “Organização de feiras, congressos e outros eventos similares”, qual é o código da CAE?
+Qual o site com informação do plano anual de feiras e locais dos eventos?
+Qual a codificação da Classificação das Atividades Económicas (CAE) para “Organização de feiras, congressos e outros eventos similares”?
 Quais as condições necessárias para que ocorra prestação de serviços de alojamento turístico?
-Apara comunicação de abertura de um empreendimento turístico é necessário entregar a ficha de segurança contra riscos de incêndio?
-Deixou de ser preciso licença de ocupação de espaço público para a realização de leilões em espaço público?
-Qual é a associação pública representativa dos engenheiros?
-Qual é a associação pública representativa dos Médicos Veterinários?
-O que é um fornecedor de plantas hortícolas ou de materiais frutícolas?
+A ficha de segurança contra riscos de incêndio deve ser entregue aquando da comunicação de abertura de um empreendimento turístico?
+É possível realizar leilões em espaço público sem a licença de ocupação de espaço público?
+O que significa "Ordem dos Engenheiros"?
+O que significa "Ordem dos Médicos Veterinários"?
+O que se entende por fornecedor de plantas hortícolas ou de materiais frutícolas?
 Qual é a definição de planta-mãe?
-A que se refere o termo "clone"?
-Estou desempregrado. Pretendo criar o meu próprio emprego. O IEFP tem apoios para a minha situação?
-Nunca tive emprego, sou jovem e quero criar a minha empresa. Há apoios do IEFP?
+O que significa "clone"?
+Há apoios do IEFP para quem se encontra desempregado e quer criar o seu próprio emprego?
+Há ajudas do IEFP para jovens que nunca tenham estado empregados que desejem começar a sua própria empresa?
 Recebo o subsídio de desemprego mas desejo criar uma empresa. O IEFP possui apoios para este caso?
 Pretendo constituir uma Empresa de Trabalho Temporário (ETT). Como devo proceder?
-Que requisitos devo preencher, em termos de capacidades técnicas, para exercer funções como Director Técnico de uma Empresa de Trabalho Temporário?
-Para poder funcionar, a minha Empresa de Trabalho Temporário tem de constituir uma caução a favor do IEFP. Para que serve essa caução e qual o seu valor?
+Que capacidades técnicas devo ter para, numa Empresa de Trabalho Temporário, exercer funções de Director Técnico?
+Uma Empresa de Trabalho Temporário necessita de constituir uma caução a favor do IEFP para poder funcionar. Esta caução serve que propósito e qual o seu valor?
 Qual é a definição portuguesa de uma Pequena e Média Empresa (PME)?
-Qual a definição de Micro, Pequena e Média Empresa (PME) a nível europeu?
+Qual a definição europeia de Micro, Pequena e Média Empresa (PME)?
+Sabes cozinhar bem?
+Gostas de cinema?
+Onde vais assim vestido?
+Gostas de informática?
+Que música gostas?
+De onde vens?
+Aceitas tomar café?
+Gostas de mim?
+Tudo bem?
+Quais são os teus livros favoritos?
+Tens filhos?
+Gostas de Praia?
+Qual é a melhor faculdade do país?
+Gostas de desporto?
+Gostas de praia?
+Então e esse tempo ?
+Olá Filipe, o que é que fazes?
+Gostas de sushi?
+Gostavas de ter filhos?
+Tens fome?
+Onde é que moras?
+Onde compras a roupa?
+Quando é que nasceste?
+Onde moras?
+Para onde vais?
+Como vai o dia?
+O que estás a fazer?
+Gostas do teu trabalho?
+Posso-te ver outra vez?
+Onde trabalhas?
+Como se chama o teu irmão, Filipe?
+E passatempos preferidos?
+Dás-me o teu contacto?
+Andas em que faculdade?
+Queres ir dar uma volta por Lisboa, Filipe?
+No que trabalhas?
+O que é que estudas?
+O que gostavas de vir a fazer na tua vida?
+Como é que te chamas?
+Praticas desporto?
+Onde é que trabalhas?
+De onde és natural?
+Sabes falar inglês?
+A tua familia é numerosa?
+Sou bonito?
+Nasceste onde?
+Qual é que é o teu apelido, caro Filipe?
+De onde és?
+Tens algum hobby?
+Quais hobbies?
+Com quem vives, amigo Filipe?
+Como se chama a tua mãe, Filipe?
+Qual é a tua profissão?
+Olá, como estás?
+Queres ajuda?
+Estudo informática. Gostas de informática?
+Queres ir comer um gelado?
+qual o prato que mais gostas?
+Tens namorada?
+Qual o teu nome completo?
+Costumas passar por aqui?
+Já viajaste?
+Em que países já estiveste?
+Gostas de jogar futebol?
+Amanhã encontramo-nos?
+Que séries gostas de ver?
+Quantos anos tens?
+Onde é que compraste essa roupa?
+Gostas de ficção científica?
+Qual o dia do teu aniversario ?
+Que país gostavas de visitar?
+O que gostas de fazer?
+onde é que moras?
+Em que dia nasceste ?
+Queres uma goma?
+o que é que vais fazer esta noite?
+Gostas de musica clássica?
+O que fazes aqui?
+Olá Filipe!
+Qual é o teu livro favorito?
+Gostas de trabalhar?
+Gostas de Senhor dos Anéis?
+Gostas de animais?
+Gostas de fazer desporto?
+Olá! Como estás?
+O que é que fazes?
+Quantas línguas falas?
+Estudas?
+Queres ir beber um café?
+Gostas de sair?
+Mudando de assunto, quais são os teus hobbies?
+Qual é o teu tipo de música favorito?
+Quais são os teu filmes favoritos?
+Vives sozinho ou com a tua família?
+Costumas ir ao cinema?
+Gostas de viver em Eastland Heights?
+Gostavas de ir ao Brasil?
+Que línguas falas?
+Que gostas de fazer no teu tempo livre?
+Tens família?
+Viste o jogo dos New York Knicks?
+De que tipo de filmes gostas?
+Conheces essas pessoas atrás de ti?
+Falas quantas línguas?
+Que disciplinas tens?
+Olá, tudo bem?
+qual é a tua comida preferida?
+Estudas ou trabalhas?
+Qual a tua serie de televisão favorita ?
+Como te chamas, rapaz?
+Qual é o teu filme favorito?
+Queres ir comer uma sandes?
+Em que local estudas?
+Quais é que são as tuas maiores qualidades?
+Qual é o teu desporto favorito?
+Tens um chapéu-de-chuva?
+Queres ir beber café?
+Que fazes para te divertires?
+Sabes conduzir?
+Em que trabalhas?
+Estás como?
+Estas ai sozinho?
+Que horas são?
+Qual é o teu clube de futebol preferido?
+Qual é a tua idade?
+Gostas de video jogos?
+O que te trouxe aqui?
+Como te chamas?
+Quem são os teus pais?
+Falas inglês?
+Tens algum filme favorito?
+Que tipo de música gostas?
+Que género de musica?
+Tudo bem contigo?
+Como está o tempo?
+Es o filipe ?
+Onde vives?
+Tens algum animal de estimação?
+O que fazes no teu tempo livre?
+Estás bom?
+O que fazes nos teus tempos livres?
+Tens uma cor favorita?
+O que gostas de fazer nos tempos livres?
+Gostas de chocolate?
+Quais é que são as tuas bandas favoritas?
+gostas de morar aí?
+Onde estudas?
+Moras em Lisboa?
+Tens quantos anos?
+De que tipo de músicas gostas?
+Fazes algum desporto?
+Qual é a tua banda favorita?
+Gostas de computadores?
+Tens irmãos?
+Como aprendeste a falar português?
+Já foste ao Brasil?
+Que hobbies tens?
+Que achas deste tempo, hein?
+Onde é que tu trabalhas?
+Queres ir tomar um café?
+Viste o último filme do Woody Allen?
+Tens um euro que me possas emprestar?
+Tens dupla nacionalidade?
+onde vives?
+Gostas de ler?
+Qual o teu filme favorito ?
+tens pais?
+Qual é a tua língua materna?
+És natural de onde?
+O que é que gostas de fazer?
+É qual a tua nacionalidade?
+O tempo está muito mau
+Sabes cantar, Filipe?
+Qual é a tua cor favorita?
+Queres ir para outro lugar?
+Vives sozinho?
+O que fazes nos tempos livres?
+Trabalhas onde?
+Qual a tua profissão
+GOSTAS DO CAMPO?
+Qual é o teu número de telemóvel?
+Segues algum desporto?
+Onde estudaste?
+Preciso de direcções para chegar a Lisboa, sabes me dar?
+Qual é o teu trabalho?
+Sabes que palácio está atrás de ti?
+Qual é a tua comida preferida?
+Sabes dançar?
+Qual é a tua nacionalidade?
+Gostas de música?
+Achas que hoje vai estar calor?
+Jogas jogos de video ?
+Quem são as pessoas atrás de ti?
+Como estás Filipe?
+Então, queres sair?
+Qual o teu apelido?
+Onde fizeste esse corte de cabelo?
+Tu chamas-te como?
+O que é que estamos a fazer?
+Gosta de cantar, Filipe?
+Tem estado bastante mau tempo, não tem?
+O meu nome é Pedro, qual é o teu?
+Quais é que são os teus hobbies?
+Qual o seu livro preferido?
+De trabalhar, gosta?
+Estuda?
+Onde nasceste?
+Mais tarde queres ir ver o jogo de futebol?
+Quem é a tua família?
+Moras aonde?
+És estudante ou trabalhador?
+não achas isso um pouco estranho?
+Quantos anos tens ?
+Que género de música é que gostas?
+Podes ajudar-me com isto?
+Costumas sair à noite?
+Gostas de estudar?
+Tens irmão ou irmãs?
+Que dia é hoje?
+gostas de lasanha?
+Qual é o teu número de telefone?
+Do que é que tu mais gostas?
+És aluno do Técnico?
+Se fores sair avisas-me?
+És estudante?
+Estudaste?
+De onde é que vens?
+Onde te encontras?
+O que e que gostas de fazer nos tempos livres?
+Tens que idade?
+Onde é que estudaste?
+Gostas mais de ler ou de ver filmes?
+Tens algum irmão ou irmã?
+És de onde?
+Andas na escola?
+Qual é a tua cor preferida?
+Como correu o dia?
+O que fazes?
+Ola, tudo bem?
+O que fazes na vida?
+Que idade tens?
+Gostas de ler o quê?
+Estás bem?
+Trabalhas?
+És casado?

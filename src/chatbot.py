@@ -30,7 +30,7 @@ def main():
     distance = "dice"
 
     #Read true labels
-    solution = fileToList("../test/testSolutions2.txt")
+    solution = fileToList("../test/testSolutions.txt")
 
     best_acc = 0
     best_threshold = None
@@ -44,6 +44,8 @@ def main():
             for id, listaPerguntas in perguntas.items():
                 for pergunta in listaPerguntas:
                     result = getDistance(distance, pergunta_test, pergunta)
+                    if id == "14" and j ==37:
+                        a = 0
                     if result < best:
                         best_id = id
                         best = result
@@ -52,6 +54,8 @@ def main():
                 results.write(best_id+"\n")
             else:
                 results.write("0\n")
+            # if j == 2: #DEBUG
+            #     print()
             j += 1
         results.close()
         results = fileToList("../out/resultados" + str(threshold) + ".txt")
@@ -94,18 +98,23 @@ def getDistance(distance, str1, str2):
         return edit_distance(str1, str2)
     if distance == "dice":
         return 1 - td.sorensen_dice(set(str1.split()), set(str2.split()))
+    if distance == "med-set":
+        return edit_distance(str1.split(), str2.split())
     else:
         raise ValueError("distance not defined")
 
 def setThresholdRange(distance):
     if distance == "jaccard":
-        return np.arange(0.25, 0.8, 0.05)
+        return np.arange(0.6, 0.9, 0.05)
     if distance == "masi":
-        return np.arange(0.7, 1, 0.05)
+        return np.arange(0.75, 0.96, 0.05)
     if distance == "med":
         return np.arange(8, 9, 1)
     if distance == "dice":
-        return np.arange(0.25, 0.8, 0.05)
+        return np.arange(0.5, 0.7, 0.05)
+        #return np.arange(0.25, 0.8, 0.05)
+    if distance == "med-set":
+        return np.arange(0.65, 0.9, 0.05)
     else:
         raise ValueError("distance not defined")
 
@@ -164,10 +173,12 @@ def preProc(Lista):
         l = re.sub(u"Ç", "C", l)
         l = re.sub(u"É", "E", l)
         l = re.sub(u"-", " ", l)
+        l = re.sub(u"/", " ", l)
         # TUDO EM MINÚSCULAS
         l = l.lower()
         # ELIMINA PONTUAÇÃO
         l = re.sub("[?|\.|!|:|,|;]", '', l)
+
         # fica so com as perguntas
         # l = re.sub("^\w+\t+[^\w]", '', l)
         result.append(str(l))
@@ -175,8 +186,8 @@ def preProc(Lista):
 
 
 #stopWords = ('a', 'o', 'teu', 'e', 'que', 'tu', 'entao', 'de', 'para', 'me')
-stopWords = ('a', 'o', 'teu', 'e', 'tu', 'entao', 'para', 'me', 'em', 'que', 'na', 'no', 'nas','ser', 'noutros','sera','uma', 'nestes','neste')
-#stopWords = preProc(nltk.corpus.stopwords.words('portuguese'))
+#stopWords = ('a', 'o', 'teu', 'e', 'tu', 'entao', 'para', 'me', 'em', 'que', 'na', 'no', 'nas','ser', 'noutros','sera','uma', 'nestes','neste', 'devo', 'ao')
+stopWords = preProc(nltk.corpus.stopwords.words('portuguese'))
 
 def removeStopWords(sentence_list, stopword_list=stopWords):
     perguntas = []
