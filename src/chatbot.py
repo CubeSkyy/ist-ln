@@ -13,15 +13,13 @@ def main():
     if len(sys.argv) != 3:
         raise ValueError("Usage: <Knowledge Base File> <Test File>")
 
-
-    perguntas = readPerguntas(sys.argv[1])
+    perguntas = load_KB(sys.argv[1])
+    perguntas_test = load_test_file(sys.argv[2])
 
     #Pre-process questions
     perguntas = mapDict(perguntas, preProc)
     perguntas = mapDict(perguntas, removeStopWords)
     perguntas = mapDict(perguntas, tokStem)
-
-    perguntas_test = readPerguntasTest(sys.argv[2])
 
     #Pre-process test questions
     perguntas_test = preProc(perguntas_test)
@@ -65,17 +63,8 @@ def main():
         print("Accuracy: " + str(acc) + " for " + str(threshold) + " threshold.")
     print("Best Accuracy: " + str(best_acc) + " for " + str(best_threshold) + " threshold.")
 
-def readPerguntasTest(filename):
-    perguntas_test = []
 
-    test_file = open(filename, 'r', encoding='utf-8')
-    for line in test_file:
-        perguntas_test.append(line)
-    test_file.close()
-    return perguntas_test
-
-
-def readPerguntas(filename):
+def load_KB(filename):
     perguntas = {}
     root = et.parse(filename).getroot()
     for type_tag in root.findall('documento/faq_list/faq'):
@@ -84,6 +73,17 @@ def readPerguntas(filename):
         for pergunta in type_tag.findall('perguntas/pergunta'):
             perguntas[res_id] = perguntas.get(res_id, []) + [pergunta.text]
     return perguntas
+
+
+def load_test_file(filename):
+    perguntas_test = []
+
+    test_file = open(filename, 'r', encoding='utf-8')
+    for line in test_file:
+        perguntas_test.append(line)
+    test_file.close()
+    return perguntas_test
+
 
 def getDistance(distance, str1, str2):
     if distance == "jaccard":
@@ -195,4 +195,5 @@ def removeStopWords(sentence_list, stopword_list=stopWords):
 
 
 
-main()
+if __name__ == "__main__":
+    main()
